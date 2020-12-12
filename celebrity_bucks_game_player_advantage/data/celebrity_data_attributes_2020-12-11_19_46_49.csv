@@ -1,0 +1,718 @@
+Celebrity,Current Ranking,Current Price,Avg. 21-Day Price,Avg. 21-Day Price/Current Price,All-Time High Price,All-Time High Price/Current Price,Days Since All-Time High Price,Gender,Age,Upcoming Birthday,U.S. Nationality,Living Status,Celebrity Bucks Recommendation,Last Update
+Taylor Swift,1,929000,126000,0.136,3011000,3.241,1759,Female,30,Upcoming birthday,U.S. national,Alive,Buy,29:23.1
+Donald Trump,2,334000,225000,0.674,6977000,20.889,1492,Male,74,No upcoming birthday,U.S. national,Alive,Sell,29:24.3
+Kim Kardashian,3,325000,46000,0.142,2661000,8.188,2392,Female,40,No upcoming birthday,U.S. national,Alive,Buy,29:25.6
+Ellen DeGeneres,4,245000,22000,0.09,3039000,12.404,2474,Female,62,No upcoming birthday,U.S. national,Alive,Buy,29:26.9
+Perez Hilton,5,238000,112000,0.471,651000,2.735,658,NaN,NaN,NaN,NaN,NaN,Hold,29:29.4
+Shia LaBeouf,6,236000,13000,0.055,1206000,5.11,2358,Male,34,No upcoming birthday,U.S. national,Alive,Buy,29:30.7
+Chris Evans,7,211000,17000,0.081,559000,2.649,2057,Male,39,No upcoming birthday,U.S. national,Alive,Buy,29:32.0
+George Clooney,8,159000,44000,0.277,1721000,10.824,2265,Male,59,No upcoming birthday,U.S. national,Alive,Sell,29:33.7
+Kelly Clarkson,9,148000,36000,0.243,716000,4.838,934,Female,38,No upcoming birthday,U.S. national,Alive,Buy,29:36.6
+Dolly Parton,10,140000,37000,0.264,504000,3.6,669,Female,74,No upcoming birthday,U.S. national,Alive,Buy,29:37.9
+Tom Hiddleston,11,139000,7000,0.05,1129000,8.122,1638,Male,39,No upcoming birthday,Foreign to U.S.,Alive,Buy,29:39.1
+Lil Wayne,12,130000,17000,0.131,522000,4.015,2100,Male,38,No upcoming birthday,U.S. national,Alive,Buy,29:40.4
+Tom Hanks,13,124000,14000,0.113,1296000,10.452,273,Male,64,No upcoming birthday,U.S. national,Alive,Buy,29:41.8
+Meryl Streep,14,123000,23000,0.187,3000000,24.39,1431,Female,71,No upcoming birthday,U.S. national,Alive,Buy,29:43.1
+Matthew Morrison,15,121000,13000,0.107,274000,2.264,2243,Male,42,No upcoming birthday,U.S. national,Alive,Buy,29:44.3
+Britney Spears,16,120000,15000,0.125,1236000,10.3,1568,Female,39,No upcoming birthday,U.S. national,Alive,Buy,29:45.7
+Wendy Williams,17,115000,19000,0.165,579000,5.035,1135,Female,56,No upcoming birthday,U.S. national,Alive,Buy,29:46.9
+Hayden Christensen,18,112000,5000,0.045,287000,2.562,1177,Male,39,No upcoming birthday,Foreign to U.S.,Alive,Buy,29:48.2
+Kid Cudi,19,112000,8000,0.071,287000,2.562,916,Male,36,No upcoming birthday,U.S. national,Alive,Buy,29:49.4
+Cassie,20,109000,13000,0.119,619000,5.679,639,NaN,NaN,NaN,NaN,NaN,Buy,29:51.7
+Dionne Warwick,21,103000,16000,0.155,272000,2.641,1672,Female,80,Upcoming birthday,U.S. national,Alive,Buy,29:53.1
+Harrison Ford,22,102000,6000,0.059,1528000,14.98,2106,Male,78,No upcoming birthday,U.S. national,Alive,Buy,29:54.3
+Christian Bale,23,90000,5000,0.056,482000,5.356,2228,Male,46,No upcoming birthday,Foreign to U.S.,Alive,Buy,29:55.6
+Kylie Jenner,24,89000,31000,0.348,360000,4.045,195,Female,23,No upcoming birthday,U.S. national,Alive,Buy,29:56.8
+Sebastian Stan,25,86000,5000,0.058,125000,1.453,2044,Male,37,No upcoming birthday,Foreign to U.S.,Alive,Buy,29:58.1
+Prince William,26,85000,33000,0.388,1311000,15.424,2049,NaN,NaN,NaN,NaN,NaN,Sell,30:00.4
+Ryan Reynolds,27,85000,32000,0.376,1184000,13.929,1764,Male,44,No upcoming birthday,Foreign to U.S.,Alive,Buy,30:01.7
+Khloe Kardashian,28,83000,22000,0.265,1502000,18.096,973,Female,36,No upcoming birthday,U.S. national,Alive,Buy,30:03.0
+Seth Meyers,29,81000,7000,0.086,1257000,15.519,2298,Male,46,No upcoming birthday,U.S. national,Alive,Buy,30:04.4
+Anthony Mackie,30,79000,6000,0.076,288000,3.646,2587,Male,41,No upcoming birthday,U.S. national,Alive,Buy,30:06.4
+Kanye West,31,77000,20000,0.26,3100000,40.26,1763,Male,43,No upcoming birthday,U.S. national,Alive,Buy,30:07.8
+Bob Odenkirk,32,76000,4000,0.053,178000,2.342,2078,Male,58,No upcoming birthday,U.S. national,Alive,Buy,30:09.1
+Jennifer Lopez,33,75000,37000,0.493,1507000,20.093,311,Female,51,No upcoming birthday,U.S. national,Alive,Hold,30:10.5
+Emily Blunt,34,74000,7000,0.095,445000,6.014,2032,Female,37,No upcoming birthday,Foreign to U.S.,Alive,Sell,30:11.8
+Carrie Ann Inaba,35,73000,6000,0.082,158000,2.164,1457,Female,52,No upcoming birthday,U.S. national,Alive,Buy,30:13.0
+Jimmy Fallon,36,71000,12000,0.169,1670000,23.521,2487,Male,46,No upcoming birthday,U.S. national,Alive,Buy,30:14.3
+Ariana Grande,37,70000,25000,0.357,4003000,57.186,1297,Female,27,No upcoming birthday,U.S. national,Alive,Sell,30:15.6
+Elizabeth Olsen,38,68000,4000,0.059,263000,3.868,2464,Female,31,No upcoming birthday,U.S. national,Alive,Buy,30:16.9
+Billie Eilish,39,67000,30000,0.448,1108000,16.537,318,Female,18,Upcoming birthday,U.S. national,Alive,Hold,30:19.1
+Johnny Depp,40,67000,25000,0.373,1918000,28.627,1659,Male,57,No upcoming birthday,U.S. national,Alive,Sell,30:20.4
+Chris Hemsworth,41,67000,15000,0.224,783000,11.687,2213,Male,37,No upcoming birthday,Foreign to U.S.,Alive,Buy,30:21.6
+Keanu Reeves,42,65000,6000,0.092,456000,7.015,2240,Male,56,No upcoming birthday,Foreign to U.S.,Alive,Buy,30:23.0
+Rihanna,43,65000,24000,0.369,1496000,23.015,1564,Female,32,No upcoming birthday,Foreign to U.S.,Alive,Hold,30:24.6
+Kate Middleton,44,64000,31000,0.484,1263000,19.734,2049,NaN,NaN,NaN,NaN,NaN,Sell,30:26.9
+Jay-Z,45,64000,11000,0.172,1009000,15.766,1047,Male,51,No upcoming birthday,U.S. national,Alive,Buy,30:28.7
+Hailee Steinfeld,46,63000,11000,0.175,237000,3.762,1317,Female,24,Upcoming birthday,U.S. national,Alive,Hold,30:29.9
+Joe Manganiello,47,62000,9000,0.145,884000,14.258,1844,Male,43,No upcoming birthday,U.S. national,Alive,Hold,30:31.0
+Diego Luna,48,61000,5000,0.082,187000,3.066,763,Male,40,No upcoming birthday,Foreign to U.S.,Alive,Buy,30:32.3
+Ewan McGregor,49,61000,3000,0.049,264000,4.328,1416,Male,49,No upcoming birthday,Foreign to U.S.,Alive,Buy,30:33.6
+Amy Adams,50,60000,12000,0.2,763000,12.717,2523,Female,46,No upcoming birthday,Foreign to U.S.,Alive,Buy,30:34.9
+Whoopi Goldberg,51,59000,6000,0.102,400000,6.78,1746,Female,65,No upcoming birthday,U.S. national,Alive,Buy,30:36.3
+Brian Baumgartner,52,58000,3000,0.052,213000,3.672,2419,Male,48,No upcoming birthday,U.S. national,Alive,Buy,30:37.5
+Mariah Carey,53,57000,33000,0.579,1119000,19.632,1438,Female,50,No upcoming birthday,U.S. national,Alive,Hold,30:39.3
+Larsa Pippen,54,57000,27000,0.474,345000,6.053,30,NaN,NaN,NaN,NaN,NaN,Hold,30:43.3
+Paul Bettany,55,56000,10000,0.179,262000,4.679,2498,Male,49,No upcoming birthday,Foreign to U.S.,Alive,Buy,30:44.6
+Michael Douglas,56,56000,4000,0.071,759000,13.554,2523,Male,76,No upcoming birthday,U.S. national,Alive,Hold,30:45.9
+Dave Grohl,57,56000,6000,0.107,497000,8.875,2007,Male,51,No upcoming birthday,U.S. national,Alive,Buy,30:47.2
+Prince Harry,58,55000,35000,0.636,4477000,81.4,936,NaN,NaN,NaN,NaN,NaN,Buy,30:49.7
+Gwyneth Paltrow,59,54000,10000,0.185,1852000,34.296,2451,Female,48,No upcoming birthday,U.S. national,Alive,Hold,30:51.0
+Bill Belichick,60,54000,4000,0.074,193000,3.574,675,NaN,NaN,NaN,NaN,NaN,Buy,30:53.4
+Andy Samberg,61,54000,6000,0.111,1207000,22.352,1908,Male,42,No upcoming birthday,U.S. national,Alive,Buy,30:54.7
+Kris Jenner,62,54000,10000,0.185,644000,11.926,1861,NaN,NaN,NaN,NaN,NaN,Buy,30:57.1
+Natalie Portman,63,54000,6000,0.111,474000,8.778,2590,Female,39,No upcoming birthday,Foreign to U.S.,Alive,Hold,30:58.5
+Beyonce,64,52000,11000,0.212,1871000,35.981,1397,NaN,NaN,NaN,NaN,NaN,Buy,31:01.0
+Rachel McAdams,65,51000,3000,0.059,377000,7.392,2333,Female,42,No upcoming birthday,Foreign to U.S.,Alive,Buy,31:02.3
+Olivia Cooke,66,50000,5000,0.1,157000,3.14,1926,Female,26,No upcoming birthday,Foreign to U.S.,Alive,Buy,31:03.5
+Morgan Stewart,67,49000,3000,0.061,74000,1.51,158,NaN,NaN,NaN,NaN,NaN,Buy,31:06.0
+Blake Lively,68,48000,5000,0.104,675000,14.062,2058,Female,33,No upcoming birthday,U.S. national,Alive,Buy,31:07.2
+Naya Rivera,69,48000,10000,0.208,2126000,44.292,149,Female,33,No upcoming birthday,U.S. national,Alive,Hold,31:08.4
+Kobe Bryant,70,47000,13000,0.277,6020000,128.085,318,Male,41,No upcoming birthday,U.S. national,Dead,Hold,31:09.7
+Miley Cyrus,71,47000,61000,1.298,3146000,66.936,1928,Female,28,No upcoming birthday,U.S. national,Alive,Sell,31:11.0
+Emma Stone,72,46000,11000,0.239,1578000,34.304,1382,Female,32,No upcoming birthday,U.S. national,Alive,Hold,31:12.2
+Heidi Klum,73,46000,8000,0.174,639000,13.891,2596,Female,47,No upcoming birthday,Foreign to U.S.,Alive,Buy,31:13.5
+Prince Charles,74,46000,24000,0.522,737000,16.022,260,Male,72,No upcoming birthday,Foreign to U.S.,Alive,Hold,31:14.8
+LeBron James,75,46000,18000,0.391,553000,12.022,892,Male,35,No upcoming birthday,U.S. national,Alive,Hold,31:16.0
+Drew Barrymore,76,46000,11000,0.239,683000,14.848,1713,Female,45,No upcoming birthday,U.S. national,Alive,Hold,31:17.4
+Meghan Markle,77,46000,46000,1,5529000,120.196,936,Female,39,No upcoming birthday,U.S. national,Alive,Hold,31:18.7
+Kathryn Newton,78,45000,5000,0.111,98000,2.178,29,Female,23,No upcoming birthday,U.S. national,Alive,Buy,31:19.9
+Julia Roberts,79,45000,4000,0.089,674000,14.978,2474,Female,53,No upcoming birthday,U.S. national,Alive,Buy,31:21.3
+Jamie Foxx,80,45000,6000,0.133,625000,13.889,1786,Male,52,Upcoming birthday,U.S. national,Alive,Hold,31:22.6
+Stephen Colbert,81,45000,14000,0.311,1773000,39.4,2435,Male,56,No upcoming birthday,U.S. national,Alive,Buy,31:23.8
+Rosario Dawson,82,44000,14000,0.318,221000,5.023,2199,Female,41,No upcoming birthday,U.S. national,Alive,Buy,31:25.1
+Steve McQueen,83,44000,9000,0.205,770000,17.5,2474,Male,50,No upcoming birthday,U.S. national,Dead,Hold,31:26.5
+Nicole Kidman,84,43000,28000,0.651,923000,21.465,1179,Female,53,No upcoming birthday,U.S. national,Alive,Hold,31:27.8
+Mark Ruffalo,85,42000,9000,0.214,399000,9.5,2067,Male,53,No upcoming birthday,U.S. national,Alive,Buy,31:29.1
+Demi Moore,86,42000,4000,0.095,690000,16.429,443,Female,58,No upcoming birthday,U.S. national,Alive,Hold,31:30.5
+Charlize Theron,87,42000,6000,0.143,569000,13.548,2037,Female,45,No upcoming birthday,Foreign to U.S.,Alive,Hold,31:31.8
+Lori Loughlin,88,42000,30000,0.714,2050000,48.81,638,Female,56,No upcoming birthday,U.S. national,Alive,Sell,31:33.1
+Gwen Stefani,89,41000,26000,0.634,1722000,42,1862,Female,51,No upcoming birthday,U.S. national,Alive,Sell,31:34.4
+Will Ferrell,90,41000,4000,0.098,669000,16.317,2086,Male,53,No upcoming birthday,U.S. national,Alive,Hold,31:35.7
+Gal Gadot,91,40000,14000,0.35,559000,13.975,1289,Female,35,No upcoming birthday,Foreign to U.S.,Alive,Hold,31:37.0
+Barack Obama,92,40000,38000,0.95,810000,20.25,1420,Male,59,No upcoming birthday,U.S. national,Alive,Hold,31:38.3
+Nathan Kress,93,40000,3000,0.075,61000,1.525,2317,Male,28,No upcoming birthday,U.S. national,Alive,Hold,31:39.6
+Miranda Cosgrove,94,40000,3000,0.075,65000,1.625,1,Female,27,No upcoming birthday,U.S. national,Alive,Hold,31:40.8
+Jimmy Kimmel,95,40000,15000,0.375,2430000,60.75,1382,Male,53,No upcoming birthday,U.S. national,Alive,Hold,31:42.1
+Leonardo DiCaprio,96,40000,3000,0.075,2643000,66.075,1746,Male,46,No upcoming birthday,U.S. national,Alive,Buy,31:43.4
+Jerry Trainor,97,40000,3000,0.075,65000,1.625,1,Male,43,No upcoming birthday,U.S. national,Alive,Hold,31:44.7
+Tobey Maguire,98,39000,9000,0.231,322000,8.256,1513,Male,45,No upcoming birthday,U.S. national,Alive,Sell,31:45.9
+Ana de Armas,99,38000,9000,0.237,141000,3.711,267,Female,32,No upcoming birthday,Foreign to U.S.,Alive,Buy,31:47.2
+Blac Chyna,100,38000,4000,0.105,1700000,44.737,1253,Female,32,No upcoming birthday,U.S. national,Alive,Buy,31:48.4
+Chris Pratt,101,37000,8000,0.216,1356000,36.649,1221,Male,41,No upcoming birthday,U.S. national,Alive,Hold,31:49.6
+Daisy Ridley,102,37000,5000,0.135,348000,9.405,1704,NaN,NaN,NaN,NaN,NaN,Hold,31:52.0
+Kourtney Kardashian,103,37000,18000,0.486,1332000,36,1983,Female,41,No upcoming birthday,U.S. national,Alive,Sell,31:53.2
+Ben Affleck,104,36000,17000,0.472,1702000,47.278,1989,Male,48,No upcoming birthday,U.S. national,Alive,Sell,31:54.5
+Reese Witherspoon,105,36000,11000,0.306,675000,18.75,2118,Female,44,No upcoming birthday,U.S. national,Alive,Hold,31:56.2
+Jamie Dornan,106,36000,7000,0.194,738000,20.5,2128,Male,38,No upcoming birthday,Foreign to U.S.,Alive,Hold,31:57.5
+Demi Lovato,107,35000,10000,0.286,2623000,74.943,869,Female,28,No upcoming birthday,U.S. national,Alive,Buy,31:58.7
+RuPaul,108,35000,9000,0.257,293000,8.371,1365,Male,60,No upcoming birthday,U.S. national,Alive,Sell,32:00.1
+Jon Favreau,109,35000,4000,0.114,308000,8.8,1534,Male,54,No upcoming birthday,U.S. national,Alive,Buy,32:01.4
+Ivanka Trump,110,34000,12000,0.353,747000,21.971,924,Female,39,No upcoming birthday,U.S. national,Alive,Hold,32:03.5
+Zac Efron,111,34000,4000,0.118,809000,23.794,2432,Male,33,No upcoming birthday,U.S. national,Alive,Buy,32:04.8
+Matthew McConaughey,112,34000,9000,0.265,1764000,51.882,2474,Male,51,No upcoming birthday,U.S. national,Alive,Hold,32:06.1
+Tom Brady,113,34000,14000,0.412,1207000,35.5,1403,Male,43,No upcoming birthday,U.S. national,Alive,Hold,32:07.3
+Kacey Musgraves,114,34000,2000,0.059,810000,23.824,668,NaN,NaN,NaN,NaN,NaN,Hold,32:09.7
+Selena Gomez,115,33000,43000,1.303,1114000,33.758,1137,Female,28,No upcoming birthday,U.S. national,Alive,Hold,32:11.0
+Benedict Cumberbatch,116,33000,6000,0.182,704000,21.333,2226,Male,44,No upcoming birthday,Foreign to U.S.,Alive,Hold,32:12.3
+Rose McGowan,117,33000,3000,0.091,1097000,33.242,1155,Female,47,No upcoming birthday,Foreign to U.S.,Alive,Hold,32:13.6
+Jake Gyllenhaal,118,32000,4000,0.125,773000,24.156,2233,Male,39,No upcoming birthday,U.S. national,Alive,Hold,32:14.9
+Angelina Jolie,119,32000,13000,0.406,3846000,120.188,1541,Female,45,No upcoming birthday,U.S. national,Alive,Hold,32:16.2
+Scarlett Johansson,120,32000,4000,0.125,876000,27.375,2506,Female,36,No upcoming birthday,U.S. national,Alive,Hold,32:17.6
+Kendall Jenner,121,32000,14000,0.438,1426000,44.562,1345,Female,25,No upcoming birthday,U.S. national,Alive,Hold,32:18.8
+Paul Rudd,122,32000,2000,0.062,877000,27.406,2548,Male,51,No upcoming birthday,U.S. national,Alive,Hold,32:20.1
+Shaquille O'Neal,123,32000,2000,0.062,270000,8.438,317,Male,48,No upcoming birthday,U.S. national,Alive,Hold,32:21.5
+Jennifer Lawrence,124,31000,12000,0.387,2237000,72.161,2474,Female,30,No upcoming birthday,U.S. national,Alive,Hold,32:22.7
+Ryan Gosling,125,30000,5000,0.167,1357000,45.233,1431,Male,40,No upcoming birthday,Foreign to U.S.,Alive,Hold,32:24.1
+Viola Davis,126,30000,7000,0.233,1424000,47.467,1907,Female,55,No upcoming birthday,U.S. national,Alive,Hold,32:25.4
+Christine Teigen,127,30000,31000,1.033,716000,23.867,1885,Female,35,No upcoming birthday,U.S. national,Alive,Sell,32:26.7
+Bruce Springsteen,128,30000,8000,0.267,492000,16.4,1706,Male,71,No upcoming birthday,U.S. national,Alive,Hold,32:27.9
+Sarah Paulson,129,30000,7000,0.233,609000,20.3,1544,Female,45,Upcoming birthday,U.S. national,Alive,Hold,32:29.2
+Kelly Ripa,130,30000,7000,0.233,1174000,39.133,1694,Female,50,No upcoming birthday,U.S. national,Alive,Hold,32:30.5
+Kerry Washington,131,29000,8000,0.276,719000,24.793,2597,Female,43,No upcoming birthday,U.S. national,Alive,Hold,32:31.7
+Tim Roth,132,29000,2000,0.069,154000,5.31,2226,Male,59,No upcoming birthday,Foreign to U.S.,Alive,Hold,32:33.0
+John Legend,133,29000,19000,0.655,877000,30.241,2117,Male,41,No upcoming birthday,U.S. national,Alive,Hold,32:34.4
+Mark Ronson,134,28000,3000,0.107,222000,7.929,1759,NaN,NaN,NaN,NaN,NaN,Hold,32:36.8
+Brie Larson,135,28000,2000,0.071,1189000,42.464,1746,Female,31,No upcoming birthday,U.S. national,Alive,Hold,32:38.2
+Zooey Deschanel,136,28000,3000,0.107,397000,14.179,2158,Female,40,No upcoming birthday,U.S. national,Alive,Hold,32:41.2
+Hayden Panettiere,137,28000,1000,0.036,424000,15.143,2298,Female,31,No upcoming birthday,U.S. national,Alive,Hold,32:42.5
+Bradley Whitford,138,28000,2000,0.071,78000,2.786,1907,Male,61,No upcoming birthday,U.S. national,Alive,Hold,32:44.2
+John Krasinski,139,27000,3000,0.111,436000,16.148,977,Male,41,No upcoming birthday,U.S. national,Alive,Hold,32:45.4
+Keegan-Michael Key,140,27000,4000,0.148,134000,4.963,2055,Male,49,No upcoming birthday,U.S. national,Alive,Hold,32:46.6
+Morena Baccarin,141,27000,1000,0.037,322000,11.926,1903,Female,41,No upcoming birthday,Foreign to U.S.,Alive,Hold,32:47.9
+Justin Bieber,142,27000,48000,1.778,4674000,173.111,2512,Male,26,No upcoming birthday,Foreign to U.S.,Alive,Hold,32:49.3
+Jessica Simpson,143,27000,6000,0.222,869000,32.185,2349,Female,40,No upcoming birthday,U.S. national,Alive,Hold,32:50.5
+James Blake,144,26000,2000,0.077,311000,11.962,1918,Male,40,No upcoming birthday,U.S. national,Alive,Hold,32:51.9
+Michelle Obama,145,26000,6000,0.231,1076000,41.385,1605,Female,NaN,No upcoming birthday,U.S. national,Alive,Hold,32:53.1
+Chandra Wilson,146,26000,3000,0.115,56000,2.154,335,Female,51,No upcoming birthday,U.S. national,Alive,Hold,32:54.4
+Kevin Hart,147,25000,11000,0.44,1162000,46.48,734,Male,41,No upcoming birthday,U.S. national,Alive,Sell,32:55.7
+Alfred Molina,148,25000,11000,0.44,198000,7.92,1,Male,67,No upcoming birthday,Foreign to U.S.,Alive,Sell,32:57.0
+Don Cheadle,149,25000,10000,0.4,202000,8.08,2555,Male,56,No upcoming birthday,U.S. national,Alive,Hold,32:58.3
+M. Night Shyamalan,150,25000,3000,0.12,376000,15.04,1417,Male,50,No upcoming birthday,Foreign to U.S.,Alive,Hold,32:59.6
+Kirk Douglas,151,25000,1000,0.04,948000,37.92,308,Male,103,No upcoming birthday,U.S. national,Dead,Hold,33:00.9
+Sacha Baron Cohen,152,25000,3000,0.12,504000,20.16,879,Male,49,No upcoming birthday,Foreign to U.S.,Alive,Hold,33:02.2
+Catherine Zeta-Jones,153,25000,3000,0.12,195000,7.8,2430,Female,51,No upcoming birthday,Foreign to U.S.,Alive,Hold,33:03.5
+Rob Kardashian,154,25000,7000,0.28,1692000,67.68,1253,NaN,NaN,NaN,NaN,NaN,Hold,33:05.9
+Beth Broderick,155,24000,1000,0.042,29000,1.208,777,Female,61,No upcoming birthday,U.S. national,Alive,Hold,33:07.2
+Gabrielle Union,156,24000,9000,0.375,650000,27.083,374,Female,48,No upcoming birthday,U.S. national,Alive,Hold,33:08.4
+Kenneth Branagh,157,24000,2000,0.083,212000,8.833,1288,Male,60,No upcoming birthday,Foreign to U.S.,Alive,Hold,33:09.7
+Ryan Seacrest,158,24000,8000,0.333,780000,32.5,1011,Male,45,No upcoming birthday,U.S. national,Alive,Hold,33:12.3
+Sienna Miller,159,24000,5000,0.208,340000,14.167,2508,Female,38,No upcoming birthday,U.S. national,Alive,Hold,33:13.5
+Alex Rodriguez,160,24000,8000,0.333,716000,29.833,641,Male,45,No upcoming birthday,U.S. national,Alive,Hold,33:14.7
+Caroline Rhea,161,24000,1000,0.042,29000,1.208,777,Female,56,No upcoming birthday,Foreign to U.S.,Alive,Hold,33:16.0
+Chris Brown,162,24000,12000,0.5,2041000,85.042,1562,Male,31,No upcoming birthday,U.S. national,Alive,Hold,33:17.3
+Oprah Winfrey,163,23000,4000,0.174,1880000,81.739,1067,Female,66,No upcoming birthday,U.S. national,Alive,Hold,33:18.6
+Ice Cube,164,23000,2000,0.087,460000,20,1946,Male,51,No upcoming birthday,U.S. national,Alive,Hold,33:19.9
+Amber Heard,165,23000,7000,0.304,1745000,75.87,1659,Female,34,No upcoming birthday,U.S. national,Alive,Hold,33:21.2
+Stellan Skarsgard,166,23000,1000,0.043,67000,2.913,700,Male,69,No upcoming birthday,Foreign to U.S.,Alive,Hold,33:22.4
+Snooki,167,22000,8000,0.364,560000,25.455,2202,NaN,NaN,NaN,NaN,NaN,Hold,33:25.6
+Blake Shelton,168,22000,18000,0.818,1948000,88.545,1862,Male,44,No upcoming birthday,U.S. national,Alive,Sell,33:26.8
+Jamie Bell,169,22000,1000,0.045,354000,16.091,2387,Male,34,No upcoming birthday,Foreign to U.S.,Alive,Hold,33:28.3
+Michelle Pfeiffer,170,22000,5000,0.227,381000,17.318,2593,Female,62,No upcoming birthday,U.S. national,Alive,Sell,33:29.5
+Goldie Hawn,171,22000,12000,0.545,528000,24,1309,Female,75,No upcoming birthday,U.S. national,Alive,Sell,33:30.8
+Mark Consuelos,172,22000,4000,0.182,163000,7.409,989,Male,49,No upcoming birthday,Foreign to U.S.,Alive,Hold,33:32.1
+Gordon Ramsay,173,21000,3000,0.143,155000,7.381,2362,Male,54,No upcoming birthday,Foreign to U.S.,Alive,Hold,33:33.4
+Scott Disick,174,21000,16000,0.762,1428000,68,1983,NaN,NaN,NaN,NaN,NaN,Hold,33:35.8
+Alexandra Daddario,175,21000,3000,0.143,101000,4.81,1295,Female,34,No upcoming birthday,U.S. national,Alive,Hold,33:37.1
+Glenn Howerton,176,21000,1000,0.048,66000,3.143,2442,Male,44,No upcoming birthday,Foreign to U.S.,Alive,Hold,33:38.4
+Owen Wilson,177,21000,1000,0.048,686000,32.667,2101,Male,52,No upcoming birthday,U.S. national,Alive,Hold,33:39.7
+Gigi Hadid,178,21000,18000,0.857,1038000,49.429,1480,NaN,NaN,NaN,NaN,NaN,Hold,33:42.0
+John Rich,179,21000,1000,0.048,46000,2.19,1165,NaN,NaN,NaN,NaN,NaN,Hold,33:44.5
+Jon Bon Jovi,180,21000,3000,0.143,324000,15.429,2570,Male,58,No upcoming birthday,U.S. national,Alive,Hold,33:45.8
+Melania Trump,181,21000,15000,0.714,1630000,77.619,1605,Female,50,No upcoming birthday,Foreign to U.S.,Alive,Hold,33:47.1
+January Jones,182,21000,5000,0.238,258000,12.286,2457,Female,42,No upcoming birthday,U.S. national,Alive,Hold,33:48.3
+Kathy Griffin,183,21000,4000,0.19,1661000,79.095,1289,Female,60,No upcoming birthday,U.S. national,Alive,Hold,33:49.8
+Cyndi Lauper,184,20000,4000,0.2,226000,11.3,1046,Female,67,No upcoming birthday,U.S. national,Alive,Hold,33:51.1
+Megan Fox,185,20000,28000,1.4,1047000,52.35,1703,Female,34,No upcoming birthday,U.S. national,Alive,Hold,33:52.3
+Margot Robbie,186,20000,9000,0.45,551000,27.55,2114,Female,30,No upcoming birthday,Foreign to U.S.,Alive,Hold,33:53.6
+Isla Fisher,187,20000,8000,0.4,186000,9.3,2262,Female,44,No upcoming birthday,Foreign to U.S.,Alive,Hold,33:55.0
+Evangeline Lilly,188,19000,2000,0.105,276000,14.526,2328,Female,41,No upcoming birthday,Foreign to U.S.,Alive,Hold,33:56.3
+Pharrell Williams,189,19000,4000,0.211,709000,37.316,2132,Male,47,No upcoming birthday,U.S. national,Alive,Hold,33:57.7
+Andie MacDowell,190,19000,2000,0.105,135000,7.105,1781,Female,62,No upcoming birthday,U.S. national,Alive,Hold,33:59.0
+Ginger Rogers,191,19000,1000,0.053,22000,1.158,2149,Female,83,No upcoming birthday,U.S. national,Dead,Hold,34:00.4
+Andy Cohen,192,19000,7000,0.368,354000,18.632,2256,NaN,NaN,NaN,NaN,NaN,Hold,34:02.8
+Samuel L. Jackson,193,19000,7000,0.368,538000,28.316,2494,Male,71,No upcoming birthday,U.S. national,Alive,Hold,34:04.1
+Fred Astaire,194,19000,1000,0.053,45000,2.368,1441,Male,88,No upcoming birthday,U.S. national,Dead,Hold,34:05.4
+Jon Hamm,195,19000,5000,0.263,861000,45.316,1907,Male,49,No upcoming birthday,U.S. national,Alive,Hold,34:06.6
+Emily Ratajkowski,196,19000,4000,0.211,300000,15.789,1020,Female,29,No upcoming birthday,Foreign to U.S.,Alive,Hold,34:07.8
+Emily VanCamp,197,19000,1000,0.053,194000,10.211,2045,Female,34,No upcoming birthday,Foreign to U.S.,Alive,Hold,34:09.0
+Emmanuelle Chriqui,198,19000,1000,0.053,62000,3.263,2018,Female,45,No upcoming birthday,Foreign to U.S.,Alive,Hold,34:10.3
+Liam Neeson,199,18000,4000,0.222,817000,45.389,674,Male,68,No upcoming birthday,Foreign to U.S.,Alive,Hold,34:12.0
+Vin Diesel,200,18000,2000,0.111,665000,36.944,2088,Male,53,No upcoming birthday,U.S. national,Alive,Hold,34:13.3
+Seth Rogen,201,18000,1000,0.056,1128000,62.667,2185,Male,38,No upcoming birthday,Foreign to U.S.,Alive,Hold,34:14.6
+Hillary Clinton,202,18000,5000,0.278,3735000,207.5,1493,Female,73,No upcoming birthday,U.S. national,Alive,Hold,34:16.0
+Jason Momoa,203,18000,6000,0.333,406000,22.556,728,Male,41,No upcoming birthday,U.S. national,Alive,Hold,34:17.3
+Wesley Snipes,204,18000,3000,0.167,122000,6.778,1904,Male,58,No upcoming birthday,U.S. national,Alive,Hold,34:18.5
+Tom Hardy,205,18000,1000,0.056,393000,21.833,798,Male,43,No upcoming birthday,Foreign to U.S.,Alive,Hold,34:19.8
+Paddy Considine,206,18000,1000,0.056,80000,4.444,66,Male,46,No upcoming birthday,Foreign to U.S.,Alive,Hold,34:21.1
+Rita Wilson,207,18000,5000,0.278,1145000,63.611,273,Female,64,No upcoming birthday,U.S. national,Alive,Hold,34:22.3
+Mario Lopez,208,18000,10000,0.556,320000,17.778,497,Male,47,No upcoming birthday,U.S. national,Alive,Hold,34:23.6
+Eminem,209,18000,14000,0.778,796000,44.222,2593,Male,48,No upcoming birthday,U.S. national,Alive,Hold,34:24.9
+Josh Brolin,210,18000,3000,0.167,345000,19.167,1220,Male,52,No upcoming birthday,U.S. national,Alive,Hold,34:26.2
+Michelle Yeoh,211,18000,1000,0.056,117000,6.5,1478,Female,58,No upcoming birthday,Foreign to U.S.,Alive,Hold,34:27.5
+Busy Philipps,212,17000,3000,0.176,256000,15.059,793,Female,41,No upcoming birthday,U.S. national,Alive,Hold,34:28.7
+Ronnie Ortiz-Magro,213,17000,4000,0.235,366000,21.529,433,NaN,NaN,NaN,NaN,NaN,Hold,34:31.2
+Hulk Hogan,214,17000,3000,0.176,895000,52.647,1965,Male,67,No upcoming birthday,U.S. national,Alive,Hold,34:32.6
+Robert Rodriguez,215,17000,5000,0.294,380000,22.353,2303,Male,52,No upcoming birthday,U.S. national,Alive,Hold,34:33.9
+Meghan Trainor,216,16000,3000,0.188,396000,24.75,1672,NaN,NaN,NaN,NaN,NaN,Hold,34:36.4
+Bill Cosby,217,16000,6000,0.375,2198000,137.375,2213,Male,83,No upcoming birthday,U.S. national,Alive,Hold,34:37.7
+Jada Pinkett Smith,218,16000,12000,0.75,879000,54.938,1787,Female,49,No upcoming birthday,U.S. national,Alive,Sell,34:39.1
+Christopher Walken,219,16000,2000,0.125,340000,21.25,2341,Male,77,No upcoming birthday,U.S. national,Alive,Hold,34:40.8
+Meg Ryan,220,16000,1000,0.062,300000,18.75,2422,Female,59,No upcoming birthday,U.S. national,Alive,Hold,34:43.4
+Angelina Pivarnick,221,16000,3000,0.188,164000,10.25,385,NaN,NaN,NaN,NaN,NaN,Hold,34:45.8
+Kevin McCarthy,222,16000,2000,0.125,148000,9.25,1891,Male,96,No upcoming birthday,U.S. national,Dead,Hold,34:47.5
+John Lithgow,223,16000,2000,0.125,158000,9.875,1274,Male,75,No upcoming birthday,U.S. national,Alive,Hold,34:48.8
+Jennette McCurdy,224,15000,1000,0.067,361000,24.067,2443,Female,28,No upcoming birthday,U.S. national,Alive,Hold,34:50.0
+Paul McCartney,225,15000,13000,0.867,673000,44.867,2509,Male,78,No upcoming birthday,Foreign to U.S.,Alive,Hold,34:51.5
+Frances McDormand,226,15000,2000,0.133,1444000,96.267,1011,Female,63,No upcoming birthday,U.S. national,Alive,Hold,34:52.7
+Kurt Russell,227,15000,13000,0.867,316000,21.067,1316,Male,69,No upcoming birthday,U.S. national,Alive,Sell,34:54.4
+Bobby Flay,228,15000,1000,0.067,301000,20.067,2017,Male,56,No upcoming birthday,U.S. national,Alive,Hold,34:55.6
+Andrew Garfield,229,15000,6000,0.4,759000,50.6,2411,Male,37,No upcoming birthday,U.S. national,Alive,Sell,34:56.8
+Jennifer Hudson,230,14000,7000,0.5,572000,40.857,1119,Female,39,No upcoming birthday,U.S. national,Alive,Hold,34:58.1
+Craig Robinson,231,14000,2000,0.143,121000,8.643,2330,Male,49,No upcoming birthday,Foreign to U.S.,Alive,Hold,34:59.3
+Tim Burton,232,14000,1000,0.071,596000,42.571,2179,Male,62,No upcoming birthday,U.S. national,Alive,Hold,35:00.5
+Rashida Jones,233,14000,6000,0.429,251000,17.929,1115,Female,44,No upcoming birthday,U.S. national,Alive,Hold,35:01.8
+Nia Peeples,234,14000,1000,0.071,42000,3,1941,Female,59,No upcoming birthday,U.S. national,Alive,Hold,35:03.0
+Frank Sinatra,235,14000,4000,0.286,230000,16.429,1825,Male,82,Upcoming birthday,U.S. national,Dead,Hold,35:04.4
+Dax Shepard,236,14000,4000,0.286,503000,35.929,2610,Male,45,No upcoming birthday,U.S. national,Alive,Hold,35:05.6
+Gisele Bundchen,237,14000,2000,0.143,434000,31,2066,Female,40,No upcoming birthday,Foreign to U.S.,Alive,Hold,35:06.8
+Kit Harington,238,14000,1000,0.071,438000,31.286,1171,Male,33,No upcoming birthday,Foreign to U.S.,Alive,Hold,35:08.1
+Maria Menounos,239,14000,2000,0.143,478000,34.143,1255,Female,42,No upcoming birthday,U.S. national,Alive,Hold,35:09.3
+Sylvie,240,14000,1000,0.071,58000,4.143,57,3 January  1883,NaN,NaN,Foreign to U.S.,Dead,Hold,35:10.6
+Chevy Chase,241,14000,2000,0.143,252000,18,1556,Male,77,No upcoming birthday,U.S. national,Alive,Hold,35:11.9
+Jodie Foster,242,14000,4000,0.286,530000,37.857,2422,Female,58,No upcoming birthday,U.S. national,Alive,Hold,35:13.2
+Willie Nelson,243,14000,2000,0.143,183000,13.071,2061,Male,87,No upcoming birthday,U.S. national,Alive,Hold,35:16.0
+Judd Apatow,244,14000,3000,0.214,357000,25.5,1969,Male,53,No upcoming birthday,U.S. national,Alive,Hold,35:17.3
+Billy Porter,245,14000,4000,0.286,485000,34.643,444,NaN,NaN,NaN,NaN,NaN,Hold,35:19.7
+Woody Allen,246,14000,1000,0.071,1267000,90.5,2503,Male,85,No upcoming birthday,U.S. national,Alive,Hold,35:21.1
+Rita Moreno,247,14000,2000,0.143,306000,21.857,2517,Female,89,Upcoming birthday,U.S. national,Alive,Hold,35:22.4
+Hilary Duff,248,14000,8000,0.571,584000,41.714,2525,Female,33,No upcoming birthday,U.S. national,Alive,Hold,35:23.7
+Mike Tyson,249,14000,32000,2.286,239000,17.071,11,Male,54,No upcoming birthday,U.S. national,Alive,Hold,35:25.1
+Lily Tomlin,250,14000,2000,0.143,321000,22.929,1411,Female,81,No upcoming birthday,U.S. national,Alive,Hold,35:26.4
+Patrick Dempsey,251,14000,4000,0.286,531000,37.929,2057,Male,54,No upcoming birthday,U.S. national,Alive,Hold,35:27.7
+Justin Timberlake,252,14000,6000,0.429,1532000,109.429,1040,Male,39,No upcoming birthday,U.S. national,Alive,Hold,35:29.0
+Jeremy Renner,253,14000,10000,0.714,443000,31.643,2269,Male,49,No upcoming birthday,U.S. national,Alive,Hold,35:30.3
+Jim Carrey,254,13000,2000,0.154,901000,69.308,1898,Male,58,No upcoming birthday,Foreign to U.S.,Alive,Hold,35:31.7
+Joaquin Phoenix,255,13000,1000,0.077,721000,55.462,304,Male,46,No upcoming birthday,U.S. national,Alive,Hold,35:32.9
+Wentworth Miller,256,13000,1000,0.077,254000,19.538,1717,Male,48,No upcoming birthday,Foreign to U.S.,Alive,Hold,35:34.2
+DJ Pauly D,257,13000,2000,0.154,172000,13.231,2605,NaN,NaN,NaN,NaN,NaN,Hold,35:36.7
+J.J. Abrams,258,13000,2000,0.154,516000,39.692,1822,NaN,NaN,NaN,NaN,NaN,Hold,35:39.1
+Kristen Wiig,259,13000,7000,0.538,727000,55.923,2143,Female,47,No upcoming birthday,U.S. national,Alive,Hold,35:40.4
+Danny Wood,260,13000,1000,0.077,73000,5.615,2443,Male,51,No upcoming birthday,U.S. national,Alive,Hold,35:42.3
+Ed Helms,261,13000,1000,0.077,230000,17.692,2554,Male,46,No upcoming birthday,U.S. national,Alive,Hold,35:43.6
+Shakira,262,13000,2000,0.154,1379000,106.077,311,Female,43,No upcoming birthday,Foreign to U.S.,Alive,Hold,35:44.9
+Kevin Costner,263,13000,2000,0.154,390000,30,2435,Male,65,No upcoming birthday,U.S. national,Alive,Hold,35:46.3
+Elizabeth Hurley,264,13000,4000,0.308,264000,20.308,170,Female,55,No upcoming birthday,Foreign to U.S.,Alive,Hold,35:47.7
+Tyler Perry,265,13000,8000,0.615,353000,27.154,430,Male,51,No upcoming birthday,U.S. national,Alive,Hold,35:49.1
+Bob Newhart,266,13000,1000,0.077,302000,23.231,2601,Male,91,No upcoming birthday,U.S. national,Alive,Hold,35:50.3
+Hailey Baldwin,267,13000,9000,0.692,1469000,113,885,NaN,NaN,NaN,NaN,NaN,Hold,35:52.7
+Amanda Seyfried,268,13000,8000,0.615,437000,33.615,1365,Female,35,No upcoming birthday,U.S. national,Alive,Hold,35:54.1
+Anne Hathaway,269,13000,2000,0.154,446000,34.308,1661,Female,38,No upcoming birthday,U.S. national,Alive,Hold,35:56.6
+Amy Sedaris,270,13000,1000,0.077,53000,4.077,1144,Female,59,No upcoming birthday,U.S. national,Alive,Hold,35:58.5
+Sarah Ramos,271,13000,1000,0.077,40000,3.077,203,Female,29,No upcoming birthday,U.S. national,Alive,Hold,35:59.9
+Will Smith,272,13000,6000,0.462,722000,55.538,1786,Male,52,No upcoming birthday,U.S. national,Alive,Hold,36:01.3
+Rupert Everett,273,13000,1000,0.077,37000,2.846,1635,Male,61,No upcoming birthday,Foreign to U.S.,Alive,Hold,36:02.7
+Denzel Washington,274,13000,3000,0.231,539000,41.462,2265,Male,65,No upcoming birthday,U.S. national,Alive,Hold,36:04.2
+Mary Steenburgen,275,13000,4000,0.308,85000,6.538,2595,Female,67,No upcoming birthday,U.S. national,Alive,Hold,36:05.4
+Christine Baranski,276,13000,1000,0.077,149000,11.462,1390,Female,68,No upcoming birthday,U.S. national,Alive,Hold,36:06.6
+Andy Richter,277,13000,1000,0.077,96000,7.385,1982,Male,54,No upcoming birthday,U.S. national,Alive,Hold,36:07.9
+Geri Halliwell,278,13000,1000,0.077,239000,18.385,2221,Female,48,No upcoming birthday,Foreign to U.S.,Alive,Hold,36:11.0
+Nicki Minaj,279,12000,17000,1.417,1652000,137.667,1968,Female,38,No upcoming birthday,Foreign to U.S.,Alive,Hold,36:12.3
+Rupert Grint,280,12000,1000,0.083,201000,16.75,1277,Male,32,No upcoming birthday,Foreign to U.S.,Alive,Hold,36:13.6
+Candice Bergen,281,12000,2000,0.167,217000,18.083,805,Female,74,No upcoming birthday,U.S. national,Alive,Hold,36:14.9
+Rachel Bilson,282,12000,1000,0.083,337000,28.083,2226,Female,39,No upcoming birthday,U.S. national,Alive,Hold,36:16.1
+Josh Gad,283,12000,3000,0.25,261000,21.75,1188,Male,39,No upcoming birthday,U.S. national,Alive,Hold,36:17.4
+Heather Graham,284,12000,2000,0.167,111000,9.25,2518,Female,50,No upcoming birthday,U.S. national,Alive,Hold,36:18.7
+JoJo,285,12000,10000,0.833,1107000,92.25,1591,NaN,NaN,NaN,NaN,NaN,Sell,36:21.1
+Donald Glover,286,12000,1000,0.083,678000,56.5,948,Male,37,No upcoming birthday,U.S. national,Alive,Hold,36:22.3
+Lil Mama,287,12000,1000,0.083,107000,8.917,2572,Female,31,No upcoming birthday,U.S. national,Alive,Hold,36:23.5
+Katy Perry,288,12000,18000,1.5,2157000,179.75,2138,Female,36,No upcoming birthday,U.S. national,Alive,Hold,36:24.8
+Keira Knightley,289,12000,1000,0.083,379000,31.583,2225,Female,35,No upcoming birthday,Foreign to U.S.,Alive,Hold,36:26.1
+Dianne Wiest,290,12000,2000,0.167,69000,5.75,2146,Female,72,No upcoming birthday,U.S. national,Alive,Hold,36:27.4
+David Tennant,291,12000,1000,0.083,216000,18,2145,Male,49,No upcoming birthday,Foreign to U.S.,Alive,Hold,36:28.7
+Bob Dylan,292,12000,18000,1.5,388000,32.333,1503,Male,79,No upcoming birthday,U.S. national,Alive,Sell,36:30.0
+Sofia Vergara,293,12000,4000,0.333,939000,78.25,1844,Female,48,No upcoming birthday,Foreign to U.S.,Alive,Hold,36:31.3
+Mads Mikkelsen,294,12000,13000,1.083,178000,14.833,29,Male,55,No upcoming birthday,Foreign to U.S.,Alive,Hold,36:32.6
+Jesse James,295,12000,2000,0.167,106000,8.833,1366,Male,31,No upcoming birthday,U.S. national,Alive,Hold,36:33.8
+Evan Rachel Wood,296,12000,1000,0.083,349000,29.083,2387,Female,33,No upcoming birthday,U.S. national,Alive,Hold,36:35.1
+Kat Dennings,297,12000,1000,0.083,312000,26,2528,Female,34,No upcoming birthday,U.S. national,Alive,Hold,36:36.3
+David Cross,298,12000,1000,0.083,175000,14.583,2078,Male,56,No upcoming birthday,U.S. national,Alive,Hold,36:37.8
+Hugh Jackman,299,12000,8000,0.667,825000,68.75,2376,Male,52,No upcoming birthday,Foreign to U.S.,Alive,Hold,36:39.1
+Elisabeth Moss,300,12000,1000,0.083,408000,34,1179,Female,38,No upcoming birthday,U.S. national,Alive,Hold,36:40.4
+Naomi Watts,301,12000,3000,0.25,475000,39.583,1535,Female,52,No upcoming birthday,Foreign to U.S.,Alive,Hold,36:43.1
+Bob Saget,302,12000,1000,0.083,282000,23.5,2506,Male,64,No upcoming birthday,U.S. national,Alive,Hold,36:44.7
+Crissy Rock,303,12000,1000,0.083,12000,1,0,Female,62,No upcoming birthday,Foreign to U.S.,Alive,Hold,36:46.0
+Isabelle Huppert,304,12000,1000,0.083,200000,16.667,1432,Female,67,No upcoming birthday,Foreign to U.S.,Alive,Hold,36:47.3
+Tom Cruise,305,12000,5000,0.417,1018000,84.833,2380,Male,58,No upcoming birthday,U.S. national,Alive,Hold,36:48.8
+Josh Peck,306,12000,1000,0.083,171000,14.25,1270,Male,34,No upcoming birthday,U.S. national,Alive,Hold,36:50.0
+Dylan Walsh,307,12000,1000,0.083,21000,1.75,252,Male,57,No upcoming birthday,U.S. national,Alive,Hold,36:51.2
+Lauren Ambrose,308,12000,1000,0.083,138000,11.5,1968,Female,42,No upcoming birthday,U.S. national,Alive,Hold,36:52.5
+Rachel Griffiths,309,12000,1000,0.083,31000,2.583,2550,Female,51,Upcoming birthday,Foreign to U.S.,Alive,Hold,36:53.7
+Anil Kapoor,310,12000,3000,0.25,84000,7,1017,Male,60,No upcoming birthday,Foreign to U.S.,Alive,Hold,36:55.0
+Nicolas Cage,311,12000,14000,1.167,357000,29.75,622,Male,56,No upcoming birthday,U.S. national,Alive,Sell,36:56.4
+Michele Placido,312,12000,1000,0.083,12000,1,74,Male,74,No upcoming birthday,Foreign to U.S.,Alive,Hold,36:57.7
+Kristen Stewart,313,12000,21000,1.75,594000,49.5,1674,Female,30,No upcoming birthday,U.S. national,Alive,Hold,36:58.9
+Lance Bass,314,12000,1000,0.083,447000,37.25,2181,Male,41,No upcoming birthday,U.S. national,Alive,Hold,37:00.2
+Josh Duhamel,315,11000,2000,0.182,651000,59.182,1182,Male,48,No upcoming birthday,U.S. national,Alive,Hold,37:01.4
+Vinny Guadagnino,316,11000,3000,0.273,70000,6.364,687,NaN,NaN,NaN,NaN,NaN,Hold,37:03.9
+Garcelle Beauvais,317,11000,3000,0.273,121000,11,239,Female,54,No upcoming birthday,Foreign to U.S.,Alive,Hold,37:05.1
+Jude Law,318,11000,6000,0.545,347000,31.545,1337,Male,47,No upcoming birthday,Foreign to U.S.,Alive,Hold,37:06.4
+Fiona Shaw,319,11000,1000,0.091,37000,3.364,445,Female,62,No upcoming birthday,Foreign to U.S.,Alive,Hold,37:07.7
+Ashley Benson,320,11000,2000,0.182,250000,22.727,210,Female,30,Upcoming birthday,U.S. national,Alive,Hold,37:11.1
+Warwick Davis,321,11000,1000,0.091,201000,18.273,2247,Male,50,No upcoming birthday,Foreign to U.S.,Alive,Hold,37:12.8
+Aubrey Plaza,322,11000,11000,1,291000,26.455,2275,Female,36,No upcoming birthday,U.S. national,Alive,Hold,37:14.0
+Tim Allen,323,11000,5000,0.455,239000,21.727,861,Male,67,No upcoming birthday,U.S. national,Alive,Hold,37:15.3
+Snoop Dogg,324,11000,11000,1,559000,50.818,1367,Male,49,No upcoming birthday,U.S. national,Alive,Hold,37:16.6
+Miranda Otto,325,11000,1000,0.091,66000,6,2019,Female,52,Upcoming birthday,Foreign to U.S.,Alive,Hold,37:17.9
+Gene Kelly,326,11000,1000,0.091,106000,9.636,1442,Male,83,No upcoming birthday,U.S. national,Dead,Hold,37:19.2
+Busta Rhymes,327,11000,1000,0.091,284000,25.818,1954,Male,48,No upcoming birthday,U.S. national,Alive,Hold,37:20.4
+Cate Blanchett,328,11000,2000,0.182,1310000,119.091,2475,Female,51,No upcoming birthday,Foreign to U.S.,Alive,Hold,37:21.7
+Chloe Grace Moretz,329,11000,1000,0.091,388000,35.273,1738,Female,23,No upcoming birthday,U.S. national,Alive,Hold,37:23.0
+Tina Fey,330,11000,3000,0.273,2015000,183.182,2159,Female,50,No upcoming birthday,U.S. national,Alive,Hold,37:24.3
+Patti LaBelle,331,11000,1000,0.091,179000,16.273,2116,Female,76,No upcoming birthday,U.S. national,Alive,Hold,37:25.5
+JWoww,332,11000,4000,0.364,496000,45.091,2541,NaN,NaN,NaN,NaN,NaN,Hold,37:27.9
+Bruce Campbell,333,11000,1000,0.091,345000,31.364,2221,Male,62,No upcoming birthday,U.S. national,Alive,Hold,37:29.2
+Jonah Hill,334,11000,1000,0.091,952000,86.545,2381,Male,36,No upcoming birthday,U.S. national,Alive,Hold,37:30.5
+Kevin Bacon,335,11000,2000,0.182,295000,26.818,2454,Male,62,No upcoming birthday,U.S. national,Alive,Hold,37:31.8
+T.I.,336,10000,6000,0.6,919000,91.9,1659,NaN,NaN,NaN,NaN,NaN,Hold,37:34.3
+Adam Lambert,337,10000,3000,0.3,361000,36.1,654,Male,38,No upcoming birthday,U.S. national,Alive,Hold,37:35.5
+Kandi Burruss,338,10000,12000,1.2,204000,20.4,1967,NaN,NaN,NaN,NaN,NaN,Hold,37:37.9
+Rebel Wilson,339,10000,16000,1.6,333000,33.3,2038,Female,34,No upcoming birthday,Foreign to U.S.,Alive,Hold,37:39.1
+Phil Spector,340,10000,1000,0.1,146000,14.6,2270,Male,NaN,No upcoming birthday,U.S. national,Alive,Hold,37:41.3
+Princess Diana,341,10000,27000,2.7,1346000,134.6,1197,Female,36,No upcoming birthday,Foreign to U.S.,Dead,Sell,37:42.6
+David Walliams,342,10000,1000,0.1,60000,6,2108,Male,49,No upcoming birthday,Foreign to U.S.,Alive,Hold,37:44.0
+Rosanna Arquette,343,10000,1000,0.1,148000,14.8,1156,Female,61,No upcoming birthday,U.S. national,Alive,Hold,37:45.4
+Tamar Braxton,344,10000,6000,0.6,519000,51.9,1857,NaN,NaN,NaN,NaN,NaN,Hold,37:47.8
+Idris Elba,345,9000,4000,0.444,707000,78.556,268,Male,48,No upcoming birthday,Foreign to U.S.,Alive,Hold,37:49.1
+Jimmy Buffett,346,9000,1000,0.111,128000,14.222,2010,Male,73,No upcoming birthday,U.S. national,Alive,Hold,37:50.8
+Susan Egan,347,9000,1000,0.111,12000,1.333,874,Female,50,No upcoming birthday,U.S. national,Alive,Hold,37:52.0
+Jeffrey Wright,348,9000,1000,0.111,129000,14.333,444,Male,55,No upcoming birthday,U.S. national,Alive,Hold,37:53.3
+Ellen Pompeo,349,8000,7000,0.875,415000,51.875,2260,Female,51,No upcoming birthday,U.S. national,Alive,Hold,37:54.6
+Elizabeth Berkley,350,8000,3000,0.375,208000,26,2585,Female,48,No upcoming birthday,U.S. national,Alive,Hold,37:55.8
+Tamera Mowry,351,8000,2000,0.25,399000,49.875,763,NaN,NaN,NaN,NaN,NaN,Hold,37:58.2
+Greg Germann,352,8000,1000,0.125,26000,3.25,245,Male,62,No upcoming birthday,U.S. national,Alive,Hold,37:59.4
+Walton Goggins,353,8000,1000,0.125,135000,16.875,1241,Male,49,No upcoming birthday,U.S. national,Alive,Hold,38:00.7
+Amanda Knox,354,8000,1000,0.125,227000,28.375,1533,Female,NaN,No upcoming birthday,U.S. national,Alive,Hold,38:01.9
+Eddie Murphy,355,8000,1000,0.125,683000,85.375,354,Male,59,No upcoming birthday,U.S. national,Alive,Hold,38:03.2
+Chad Michael Murray,356,8000,1000,0.125,249000,31.125,910,Male,39,No upcoming birthday,U.S. national,Alive,Hold,38:04.5
+Benjamin McKenzie,357,8000,1000,0.125,58000,7.25,1904,NaN,NaN,NaN,NaN,NaN,Hold,38:06.9
+Felicity Jones,358,8000,2000,0.25,137000,17.125,372,Female,37,No upcoming birthday,Foreign to U.S.,Alive,Hold,38:08.1
+NeNe Leakes,359,8000,3000,0.375,461000,57.625,1990,Female,52,Upcoming birthday,U.S. national,Alive,Hold,38:09.4
+Hugh Grant,360,8000,17000,2.125,272000,34,1581,Male,60,No upcoming birthday,Foreign to U.S.,Alive,Hold,38:10.6
+Allison Mack,361,8000,1000,0.125,442000,55.25,961,Female,38,No upcoming birthday,Foreign to U.S.,Alive,Hold,38:11.8
+Annie Lennox,362,8000,2000,0.25,267000,33.375,1949,Female,65,No upcoming birthday,Foreign to U.S.,Alive,Hold,38:13.2
+Joey Fatone,363,8000,1000,0.125,153000,19.125,1584,Male,43,No upcoming birthday,U.S. national,Alive,Hold,38:14.4
+Sandra Denton,364,8000,1000,0.125,21000,2.625,946,NaN,NaN,NaN,NaN,NaN,Hold,38:16.9
+Solange Knowles,365,8000,2000,0.25,1601000,200.125,2403,Female,34,No upcoming birthday,U.S. national,Alive,Hold,38:18.1
+Yvonne Strahovski,366,7000,1000,0.143,156000,22.286,2522,Female,38,No upcoming birthday,Foreign to U.S.,Alive,Hold,38:19.4
+Anderson Cooper,367,7000,2000,0.286,389000,55.571,542,Male,53,No upcoming birthday,U.S. national,Alive,Hold,38:20.7
+John Travolta,368,7000,7000,1,1059000,151.286,2473,Male,66,No upcoming birthday,U.S. national,Alive,Hold,38:22.0
+ Zach Braff,369,7000,1000,0.143,303000,43.286,2517,Male,45,No upcoming birthday,U.S. national,Alive,Hold,38:23.3
+Adam Scott,370,7000,1000,0.143,129000,18.429,1315,Male,47,No upcoming birthday,U.S. national,Alive,Hold,38:24.6
+Ralph Waite,371,7000,1000,0.143,332000,47.429,2491,Male,85,No upcoming birthday,U.S. national,Dead,Hold,38:25.9
+Jill Clayburgh,372,7000,1000,0.143,14000,2,2355,Female,66,No upcoming birthday,U.S. national,Dead,Hold,38:27.2
+Sam Neill,373,7000,1000,0.143,190000,27.143,442,Male,73,No upcoming birthday,Foreign to U.S.,Alive,Hold,38:28.4
+Katharine Hepburn,374,7000,1000,0.143,52000,7.429,505,Female,96,No upcoming birthday,U.S. national,Dead,Hold,38:29.7
+Bingbing Fan,375,7000,1000,0.143,282000,40.286,799,NaN,NaN,NaN,NaN,NaN,Hold,38:32.2
+Paul Hogan,376,7000,1000,0.143,105000,15,2611,Male,81,No upcoming birthday,Foreign to U.S.,Alive,Hold,38:33.7
+B.J. Novak,377,7000,1000,0.143,130000,18.571,2501,NaN,NaN,NaN,NaN,NaN,Hold,38:36.1
+Emma Roberts,378,7000,2000,0.286,409000,58.429,2529,Female,29,No upcoming birthday,U.S. national,Alive,Hold,38:37.4
+Diana Ross,379,7000,2000,0.286,664000,94.857,1116,Female,76,No upcoming birthday,U.S. national,Alive,Hold,38:38.7
+John Wayne,380,7000,1000,0.143,196000,28,1394,Male,72,No upcoming birthday,U.S. national,Dead,Hold,38:40.1
+Nicole Richie,381,7000,1000,0.143,239000,34.143,2346,Female,39,No upcoming birthday,U.S. national,Alive,Hold,38:41.4
+Penelope Cruz,382,7000,1000,0.143,322000,46,2250,Female,46,No upcoming birthday,Foreign to U.S.,Alive,Hold,38:42.7
+John Cleese,383,7000,4000,0.571,133000,19,2251,Male,81,No upcoming birthday,Foreign to U.S.,Alive,Hold,38:44.1
+David Berman,384,7000,1000,0.143,163000,23.286,490,NaN,NaN,NaN,NaN,NaN,Hold,38:46.5
+Travis Fimmel,385,7000,1000,0.143,100000,14.286,2563,Male,41,No upcoming birthday,Foreign to U.S.,Alive,Hold,38:47.7
+Mathieu Kassovitz,386,7000,1000,0.143,12000,1.714,576,Male,53,No upcoming birthday,Foreign to U.S.,Alive,Hold,38:48.9
+Chris Rock,387,7000,2000,0.286,2820000,402.857,1746,Male,55,No upcoming birthday,U.S. national,Alive,Hold,38:50.3
+Gabourey Sidibe,388,7000,6000,0.857,260000,37.143,2522,Female,37,No upcoming birthday,U.S. national,Alive,Sell,38:51.5
+Paul Schneider,389,7000,1000,0.143,51000,7.286,871,Male,44,No upcoming birthday,U.S. national,Alive,Hold,38:52.8
+Lucy Hale,390,7000,1000,0.143,221000,31.571,2319,Female,31,No upcoming birthday,U.S. national,Alive,Hold,38:54.1
+Piers Morgan,391,7000,3000,0.429,521000,74.429,2481,Male,55,No upcoming birthday,Foreign to U.S.,Alive,Hold,38:55.3
+Mos Def,392,7000,1000,0.143,150000,21.429,1791,Male,47,Upcoming birthday,U.S. national,Alive,Hold,38:56.5
+Andy Griffith,393,7000,1000,0.143,196000,28,1106,Male,86,No upcoming birthday,U.S. national,Dead,Hold,38:57.8
+Harry Shearer,394,7000,1000,0.143,620000,88.571,2037,Male,76,No upcoming birthday,U.S. national,Alive,Hold,38:59.1
+Amy Winehouse,395,7000,1000,0.143,300000,42.857,2279,Female,27,No upcoming birthday,Foreign to U.S.,Dead,Hold,39:00.5
+Ryan Phillippe,396,7000,3000,0.429,537000,76.714,1178,Male,46,No upcoming birthday,U.S. national,Alive,Hold,39:01.8
+Howard Stern,397,7000,12000,1.714,425000,60.714,1996,Male,66,No upcoming birthday,U.S. national,Alive,Hold,39:03.1
+Madonna,398,7000,12000,1.714,1235000,176.429,2114,Female,62,No upcoming birthday,U.S. national,Alive,Hold,39:04.4
+Wayne Knight,399,7000,1000,0.143,272000,38.857,2460,Male,65,No upcoming birthday,U.S. national,Alive,Hold,39:05.7
+Mindy Kaling,400,7000,6000,0.857,423000,60.429,1087,Female,41,No upcoming birthday,U.S. national,Alive,Hold,39:07.8
+Gary Oldman,401,7000,6000,0.857,964000,137.714,2361,Male,62,No upcoming birthday,Foreign to U.S.,Alive,Hold,39:09.1
+Shantel VanSanten,402,7000,1000,0.143,36000,5.143,2460,Female,35,No upcoming birthday,U.S. national,Alive,Hold,39:10.3
+P!nk,403,7000,2000,0.286,365000,52.143,2590,NaN,NaN,NaN,NaN,NaN,Hold,39:12.9
+Tommy Lee Jones,404,7000,1000,0.143,161000,23,2430,Male,74,No upcoming birthday,U.S. national,Alive,Hold,39:14.1
+Chace Crawford,405,7000,1000,0.143,85000,12.143,2338,Male,35,No upcoming birthday,U.S. national,Alive,Hold,39:15.4
+Vera Farmiga,406,7000,3000,0.429,145000,20.714,695,Female,47,No upcoming birthday,U.S. national,Alive,Hold,39:16.7
+Linda Cardellini,407,7000,1000,0.143,92000,13.143,2080,Female,45,No upcoming birthday,U.S. national,Alive,Hold,39:17.9
+Laura San Giacomo,408,7000,1000,0.143,34000,4.857,2094,Female,58,No upcoming birthday,U.S. national,Alive,Hold,39:19.1
+Mary J. Blige,409,7000,1000,0.143,276000,39.429,1596,Female,49,No upcoming birthday,U.S. national,Alive,Hold,39:20.3
+Glenn Close,410,7000,13000,1.857,687000,98.143,655,Female,73,No upcoming birthday,U.S. national,Alive,Hold,39:21.7
+Robert Duvall,411,7000,1000,0.143,162000,23.143,2118,Male,89,No upcoming birthday,U.S. national,Alive,Hold,39:23.0
+Amy Poehler,412,7000,1000,0.143,2231000,318.714,2523,Female,49,No upcoming birthday,U.S. national,Alive,Hold,39:24.3
+Tim Robbins,413,7000,1000,0.143,128000,18.286,2395,Male,62,No upcoming birthday,U.S. national,Alive,Hold,39:25.7
+Rider Strong,414,7000,1000,0.143,254000,36.286,2608,Male,41,Upcoming birthday,U.S. national,Alive,Hold,39:27.5
+Isaiah Washington,415,7000,1000,0.143,285000,40.714,2471,Male,57,No upcoming birthday,U.S. national,Alive,Hold,39:28.8
+Josh Lucas,416,7000,1000,0.143,84000,12,2512,Male,49,No upcoming birthday,U.S. national,Alive,Hold,39:30.1
+Christina Applegate,417,7000,2000,0.286,188000,26.857,1961,Female,49,No upcoming birthday,U.S. national,Alive,Hold,39:31.4
+Joel Madden,418,7000,1000,0.143,97000,13.857,2096,Male,41,No upcoming birthday,U.S. national,Alive,Hold,39:32.5
+Gloria Estefan,419,7000,6000,0.857,151000,21.571,1861,Female,63,No upcoming birthday,Foreign to U.S.,Alive,Hold,39:34.0
+Rachel Weisz,420,7000,1000,0.143,264000,37.714,965,Female,50,No upcoming birthday,Foreign to U.S.,Alive,Hold,39:35.3
+Bruce Lee,421,7000,3000,0.429,188000,26.857,499,Male,32,No upcoming birthday,U.S. national,Dead,Hold,39:36.6
+Summer Phoenix,422,7000,1000,0.143,182000,26,1228,Female,42,No upcoming birthday,U.S. national,Alive,Hold,39:37.8
+Richard Thomas,423,7000,1000,0.143,21000,3,2474,Male,69,No upcoming birthday,U.S. national,Alive,Hold,39:40.3
+Carmen Electra,424,7000,1000,0.143,159000,22.714,227,Female,48,No upcoming birthday,U.S. national,Alive,Hold,39:41.6
+Daniel Radcliffe,425,7000,5000,0.714,656000,93.714,2233,Male,31,No upcoming birthday,Foreign to U.S.,Alive,Hold,39:42.9
+Donna Mills,426,7000,1000,0.143,19000,2.714,2519,Female,80,Upcoming birthday,U.S. national,Alive,Hold,39:44.1
+Susan Dey,427,7000,1000,0.143,7000,1,2558,Female,68,No upcoming birthday,U.S. national,Alive,Hold,39:45.4
+Lisa Marie,428,7000,1000,0.143,395000,56.429,150,Female,52,No upcoming birthday,U.S. national,Alive,Hold,39:46.6
+Benicio Del Toro,429,7000,1000,0.143,220000,31.429,1970,Male,53,No upcoming birthday,U.S. national,Alive,Hold,39:47.9
+Vince Vaughn,430,7000,5000,0.714,637000,91,2269,Male,50,No upcoming birthday,U.S. national,Alive,Hold,39:49.2
+Idina Menzel,431,7000,2000,0.286,1172000,167.429,2474,Female,49,No upcoming birthday,U.S. national,Alive,Hold,39:50.5
+Gary Dourdan,432,7000,1000,0.143,27000,3.857,2372,Male,54,Upcoming birthday,U.S. national,Alive,Hold,39:51.8
+Kate Winslet,433,7000,4000,0.571,629000,89.857,1746,Female,45,No upcoming birthday,Foreign to U.S.,Alive,Hold,39:53.1
+Gerard Butler,434,7000,1000,0.143,425000,60.714,759,Male,51,No upcoming birthday,Foreign to U.S.,Alive,Hold,39:54.4
+Rachel Maddow,435,7000,3000,0.429,588000,84,1366,Female,47,No upcoming birthday,U.S. national,Alive,Hold,39:55.6
+Delroy Lindo,436,7000,1000,0.143,58000,8.286,206,Male,68,No upcoming birthday,Foreign to U.S.,Alive,Hold,39:56.8
+Alison Brie,437,7000,9000,1.286,374000,53.429,704,Female,37,No upcoming birthday,U.S. national,Alive,Hold,39:58.2
+Freddie Prinze Jr.,438,7000,1000,0.143,457000,65.286,2326,Male,44,No upcoming birthday,U.S. national,Alive,Hold,39:59.5
+Aretha Franklin,439,7000,3000,0.429,3037000,433.857,846,Female,76,No upcoming birthday,U.S. national,Dead,Hold,40:00.7
+Joseph Fiennes,440,7000,1000,0.143,652000,93.143,1428,Male,50,No upcoming birthday,Foreign to U.S.,Alive,Hold,40:01.9
+Jon Bernthal,441,7000,1000,0.143,241000,34.429,2011,Male,43,No upcoming birthday,U.S. national,Alive,Hold,40:03.2
+Stevie Nicks,442,7000,2000,0.286,370000,52.857,621,Female,72,No upcoming birthday,U.S. national,Alive,Hold,40:04.4
+Kevin Smith,443,7000,1000,0.143,444000,63.429,1017,Male,50,No upcoming birthday,U.S. national,Alive,Hold,40:05.7
+Billie Joe Armstrong,444,7000,2000,0.286,132000,18.857,235,Male,48,No upcoming birthday,U.S. national,Alive,Hold,40:07.0
+John Lurie,445,7000,1000,0.143,14000,2,2483,Male,67,Upcoming birthday,U.S. national,Alive,Hold,40:08.4
+Usher,446,7000,2000,0.286,367000,52.429,2299,NaN,NaN,NaN,NaN,NaN,Hold,40:11.6
+Henry Jones,447,7000,1000,0.143,21000,3,2144,Male,86,No upcoming birthday,U.S. national,Dead,Hold,40:12.8
+Mia Farrow,448,7000,2000,0.286,510000,72.857,2497,Female,75,No upcoming birthday,U.S. national,Alive,Hold,40:14.1
+Channing Tatum,449,7000,5000,0.714,1102000,157.429,982,Male,40,No upcoming birthday,U.S. national,Alive,Hold,40:15.4
+Conchata Ferrell,450,7000,1000,0.143,279000,39.857,58,Female,77,No upcoming birthday,U.S. national,Alive,Hold,40:16.7
+Ariana Richards,451,7000,1000,0.143,14000,2,2007,Female,41,No upcoming birthday,U.S. national,Alive,Hold,40:18.0
+Lorde,452,7000,3000,0.429,1196000,170.857,2509,Female,24,No upcoming birthday,Foreign to U.S.,Alive,Hold,40:19.7
+Moises Arias,453,7000,1000,0.143,567000,81,2408,Male,26,No upcoming birthday,U.S. national,Alive,Hold,40:20.8
+Justina Machado,454,7000,5000,0.714,84000,12,17,Female,48,No upcoming birthday,U.S. national,Alive,Hold,40:22.1
+Michael Buble,455,7000,2000,0.286,279000,39.857,1496,Male,45,No upcoming birthday,Foreign to U.S.,Alive,Hold,40:23.3
+Steven Spielberg,456,7000,3000,0.429,504000,72,987,Male,73,Upcoming birthday,U.S. national,Alive,Hold,40:24.6
+Ashanti,457,7000,2000,0.286,95000,13.571,2187,Female,40,No upcoming birthday,U.S. national,Alive,Hold,40:26.3
+Alan Tudyk,458,7000,1000,0.143,112000,16,2101,Male,49,No upcoming birthday,U.S. national,Alive,Hold,40:27.6
+Carey Mulligan,459,7000,3000,0.429,307000,43.857,1890,Female,35,No upcoming birthday,Foreign to U.S.,Alive,Hold,40:28.8
+Saoirse Ronan,460,7000,3000,0.429,250000,35.714,1103,Female,26,No upcoming birthday,U.S. national,Alive,Hold,40:30.0
+Peter Stormare,461,7000,1000,0.143,56000,8,2374,Male,67,No upcoming birthday,Foreign to U.S.,Alive,Hold,40:31.3
+Bill Nye,462,7000,2000,0.286,195000,27.857,1562,NaN,NaN,NaN,NaN,NaN,Hold,40:33.9
+Jesse White,463,7000,3000,0.429,49000,7,3,NaN,NaN,NaN,NaN,NaN,Hold,40:36.3
+Christina Aguilera,464,7000,1000,0.143,699000,99.857,2306,Female,39,Upcoming birthday,U.S. national,Alive,Hold,40:37.9
+Max Minghella,465,7000,1000,0.143,64000,9.143,2294,Male,35,No upcoming birthday,Foreign to U.S.,Alive,Hold,40:39.3
+Lindsay Lohan,466,7000,2000,0.286,937000,133.857,2425,Female,34,No upcoming birthday,U.S. national,Alive,Hold,40:40.7
+Giancarlo Esposito,467,7000,2000,0.286,103000,14.714,1425,Male,62,No upcoming birthday,Foreign to U.S.,Alive,Hold,40:41.9
+Toni Collette,468,7000,2000,0.286,132000,18.857,917,Female,48,No upcoming birthday,Foreign to U.S.,Alive,Hold,40:43.2
+Fionnula Flanagan,469,7000,1000,0.143,21000,3,2243,Female,79,No upcoming birthday,Foreign to U.S.,Alive,Hold,40:44.7
+Ellen Burstyn,470,7000,1000,0.143,119000,17,2498,Female,88,No upcoming birthday,U.S. national,Alive,Hold,40:46.0
+Laura Dern,471,7000,1000,0.143,575000,82.143,305,Female,53,No upcoming birthday,U.S. national,Alive,Hold,40:47.3
+Judy Garland,472,7000,2000,0.286,193000,27.571,580,Female,47,No upcoming birthday,U.S. national,Dead,Hold,40:48.6
+Isabella Hofmann,473,7000,1000,0.143,7000,1,2557,Female,62,Upcoming birthday,U.S. national,Alive,Hold,40:49.9
+David Koechner,474,7000,1000,0.143,166000,23.714,2549,Male,58,No upcoming birthday,U.S. national,Alive,Hold,40:51.2
+John Cena,475,7000,4000,0.571,665000,95,969,Male,43,No upcoming birthday,U.S. national,Alive,Hold,40:52.5
+Jennifer Ehle,476,7000,1000,0.143,77000,11,2590,Female,50,No upcoming birthday,U.S. national,Alive,Hold,40:54.3
+Joseph Mazzello,477,7000,1000,0.143,33000,4.714,941,Male,37,No upcoming birthday,U.S. national,Alive,Hold,40:55.5
+Ellen Page,478,7000,10000,1.429,815000,116.429,2490,NaN,NaN,NaN,NaN,NaN,Hold,40:58.0
+Justine Bateman,479,7000,1000,0.143,16000,2.286,1396,Female,54,No upcoming birthday,U.S. national,Alive,Hold,40:59.3
+Garth Brooks,480,7000,2000,0.286,373000,53.286,1498,Male,58,No upcoming birthday,U.S. national,Alive,Hold,41:00.5
+Diane Kruger,481,7000,3000,0.429,217000,31,1606,Female,44,No upcoming birthday,Foreign to U.S.,Alive,Hold,41:01.8
+Aaron Eckhart,482,7000,2000,0.286,246000,35.143,2512,Male,52,No upcoming birthday,U.S. national,Alive,Hold,41:03.3
+Kevin Corrigan,483,7000,1000,0.143,35000,5,2067,Male,51,No upcoming birthday,U.S. national,Alive,Hold,41:04.6
+Sting,484,7000,4000,0.571,347000,49.571,1489,Male,69,No upcoming birthday,Foreign to U.S.,Alive,Hold,41:06.0
+Rob McElhenney,485,7000,1000,0.143,95000,13.571,1969,Male,43,No upcoming birthday,U.S. national,Alive,Hold,41:07.2
+Jeff Lewis,486,7000,1000,0.143,127000,18.143,2164,NaN,NaN,NaN,NaN,NaN,Hold,41:10.3
+Sandra Oh,487,7000,1000,0.143,1214000,173.429,704,Female,49,No upcoming birthday,Foreign to U.S.,Alive,Hold,41:11.6
+Melissa Joan Hart,488,6000,1000,0.167,143000,23.833,2437,Female,44,No upcoming birthday,U.S. national,Alive,Hold,41:12.9
+Nathan Fillion,489,6000,1000,0.167,178000,29.667,1672,Male,49,No upcoming birthday,Foreign to U.S.,Alive,Hold,41:14.2
+Peter Dinklage,490,6000,6000,1,333000,55.5,1712,Male,51,No upcoming birthday,U.S. national,Alive,Hold,41:15.5
+Regina King,491,6000,3000,0.5,705000,117.5,655,Female,49,No upcoming birthday,U.S. national,Alive,Hold,41:16.8
+Henry Fonda,492,6000,1000,0.167,94000,15.667,482,Male,77,No upcoming birthday,U.S. national,Dead,Hold,41:18.1
+Alicia Keys,493,6000,7000,1.167,732000,122,668,Female,39,No upcoming birthday,U.S. national,Alive,Hold,41:19.4
+Brian Dennehy,494,6000,1000,0.167,424000,70.667,237,Male,81,No upcoming birthday,U.S. national,Dead,Hold,41:21.2
+Lucy Liu,495,6000,1000,0.167,351000,58.5,1931,Female,52,No upcoming birthday,U.S. national,Alive,Hold,41:22.5
+Bette Midler,496,6000,2000,0.333,749000,124.833,1738,Female,75,No upcoming birthday,U.S. national,Alive,Hold,41:23.8
+Tom Selleck,497,6000,1000,0.167,310000,51.667,1981,Male,75,No upcoming birthday,U.S. national,Alive,Hold,41:25.2
+Dorothy McGuire,498,6000,1000,0.167,16000,2.667,2296,Female,85,No upcoming birthday,U.S. national,Dead,Hold,41:26.4
+Roberto Benigni,499,6000,2000,0.333,34000,5.667,2446,Male,68,No upcoming birthday,Foreign to U.S.,Alive,Hold,41:27.8
+Robert De Niro,500,6000,3000,0.5,676000,112.667,913,Male,77,No upcoming birthday,U.S. national,Alive,Hold,41:29.2
+Matt Damon,501,6000,2000,0.333,952000,158.667,1899,Male,50,No upcoming birthday,U.S. national,Alive,Hold,41:30.5
+James Caan,502,6000,1000,0.167,115000,19.167,1320,Male,80,No upcoming birthday,U.S. national,Alive,Hold,41:31.9
+Daniel Day-Lewis,503,6000,1000,0.167,424000,70.667,1268,Male,63,No upcoming birthday,Foreign to U.S.,Alive,Hold,41:33.1
+Elizabeth Banks,504,6000,1000,0.167,392000,65.333,1597,Female,46,No upcoming birthday,U.S. national,Alive,Hold,41:34.4
+Ted Danson,505,6000,2000,0.333,171000,28.5,2163,Male,72,No upcoming birthday,U.S. national,Alive,Hold,41:35.7
+Ben Stiller,506,6000,2000,0.333,714000,119,2102,Male,55,No upcoming birthday,U.S. national,Alive,Hold,41:37.2
+Jennifer Garner,507,6000,11000,1.833,1463000,243.833,1989,Female,48,No upcoming birthday,U.S. national,Alive,Hold,41:38.5
+Beth Ditto,508,6000,1000,0.167,50000,8.333,1347,Female,39,No upcoming birthday,U.S. national,Alive,Hold,41:39.7
+Bella Thorne,509,6000,1000,0.167,581000,96.833,1295,Female,23,No upcoming birthday,U.S. national,Alive,Hold,41:41.0
+Ronald Reagan,510,6000,6000,1,374000,62.333,1686,Male,93,No upcoming birthday,U.S. national,Dead,Hold,41:42.5
+Alfonso Ribeiro,511,6000,1000,0.167,387000,64.5,2206,Male,49,No upcoming birthday,U.S. national,Alive,Hold,41:43.8
+Michael Clarke Duncan,512,6000,1000,0.167,58000,9.667,2375,Male,54,No upcoming birthday,U.S. national,Dead,Hold,41:45.1
+Paul Giamatti,513,6000,1000,0.167,193000,32.167,2562,Male,53,No upcoming birthday,U.S. national,Alive,Hold,41:46.4
+Bryan Cranston,514,6000,8000,1.333,1094000,182.333,2298,Male,64,No upcoming birthday,U.S. national,Alive,Hold,41:48.8
+Lenny Henry,515,6000,2000,0.333,63000,10.5,724,Male,62,No upcoming birthday,Foreign to U.S.,Alive,Hold,41:50.2
+Sophia Loren,516,6000,1000,0.167,92000,15.333,2227,Female,86,No upcoming birthday,Foreign to U.S.,Alive,Hold,41:51.5
+George Lopez,517,6000,1000,0.167,357000,59.5,2476,Male,59,No upcoming birthday,U.S. national,Alive,Hold,41:52.8
+Kevin Spacey,518,6000,1000,0.167,2245000,374.167,1137,Male,61,No upcoming birthday,U.S. national,Alive,Hold,41:54.1
+Yvette Nicole Brown,519,6000,1000,0.167,140000,23.333,2263,Female,49,No upcoming birthday,U.S. national,Alive,Hold,41:55.3
+Christoph Waltz,520,6000,1000,0.167,325000,54.167,2198,Male,64,No upcoming birthday,Foreign to U.S.,Alive,Hold,41:56.6
+James MacArthur,521,6000,1000,0.167,6000,1,2183,Male,72,No upcoming birthday,U.S. national,Dead,Hold,41:57.9
+David Hasselhoff,522,6000,1000,0.167,215000,35.833,1854,Male,68,No upcoming birthday,U.S. national,Alive,Hold,41:59.2
+Christian Siriano,523,6000,1000,0.167,164000,27.333,1614,NaN,NaN,NaN,NaN,NaN,Hold,42:02.6
+Abhishek Bachchan,524,6000,1000,0.167,110000,18.333,151,Male,44,No upcoming birthday,Foreign to U.S.,Alive,Hold,42:03.9
+Martin Short,525,6000,1000,0.167,169000,28.167,1654,Male,70,No upcoming birthday,Foreign to U.S.,Alive,Hold,42:05.2
+Fergie,526,6000,1000,0.167,928000,154.667,1025,Female,45,No upcoming birthday,U.S. national,Alive,Hold,42:06.5
+Chris Pine,527,6000,4000,0.667,581000,96.833,2520,Male,40,No upcoming birthday,U.S. national,Alive,Sell,42:07.7
+Conan O'Brien,528,6000,1000,0.167,395000,65.833,2472,Male,57,No upcoming birthday,U.S. national,Alive,Hold,42:09.1
+Annabelle Wallis,529,6000,1000,0.167,103000,17.167,1879,Female,36,No upcoming birthday,Foreign to U.S.,Alive,Hold,42:10.3
+Karl Urban,530,6000,1000,0.167,164000,27.333,2579,Male,48,No upcoming birthday,Foreign to U.S.,Alive,Hold,42:11.6
+Raj Kapoor,531,6000,1000,0.167,26000,4.333,1102,Male,63,Upcoming birthday,Foreign to U.S.,Dead,Hold,42:13.0
+will.i.am,532,6000,1000,0.167,134000,22.333,2256,NaN,NaN,NaN,NaN,NaN,Hold,42:15.4
+Diane Lane,533,6000,2000,0.333,208000,34.667,2564,Female,55,No upcoming birthday,U.S. national,Alive,Hold,42:16.7
+Marion Davies,534,6000,2000,0.333,39000,6.5,7,Female,64,No upcoming birthday,U.S. national,Dead,Hold,42:17.9
+Kyle MacLachlan,535,6000,1000,0.167,371000,61.833,2159,Male,61,No upcoming birthday,U.S. national,Alive,Hold,42:19.9
+Savannah Guthrie,536,6000,1000,0.167,568000,94.667,1106,NaN,NaN,NaN,NaN,NaN,Hold,42:22.3
+Bill Irwin,537,6000,1000,0.167,42000,7,2324,Male,70,No upcoming birthday,U.S. national,Alive,Hold,42:23.8
+Lauren Graham,538,6000,2000,0.333,263000,43.833,1878,Female,53,No upcoming birthday,U.S. national,Alive,Hold,42:25.1
+Olivia Munn,539,6000,2000,0.333,387000,64.5,1054,Female,40,No upcoming birthday,U.S. national,Alive,Hold,42:26.6
+Marshall Bell,540,6000,1000,0.167,6000,1,2018,Male,78,No upcoming birthday,U.S. national,Alive,Hold,42:27.9
+Steve Martin,541,6000,3000,0.5,346000,57.667,2580,Male,75,No upcoming birthday,U.S. national,Alive,Hold,42:29.2
+Brendan Fitzpatrick,542,6000,1000,0.167,29000,4.833,2292,NaN,NaN,NaN,NaN,NaN,Hold,42:31.7
+Emilio Estevez,543,6000,1000,0.167,126000,21,301,Male,58,No upcoming birthday,U.S. national,Alive,Hold,42:32.9
+Adam Levine,544,6000,2000,0.333,938000,156.333,2577,Male,41,No upcoming birthday,U.S. national,Alive,Hold,42:34.3
+Michael Caine,545,6000,1000,0.167,274000,45.667,2030,Male,87,No upcoming birthday,Foreign to U.S.,Alive,Hold,42:35.7
+Sterling K. Brown,546,6000,1000,0.167,604000,100.667,1179,NaN,NaN,NaN,NaN,NaN,Hold,42:38.1
+John Mills,547,6000,1000,0.167,16000,2.667,2296,Male,97,No upcoming birthday,Foreign to U.S.,Dead,Hold,42:39.4
+Jessica Alba,548,6000,1000,0.167,363000,60.5,2304,Female,39,No upcoming birthday,U.S. national,Alive,Hold,42:40.8
+Vincent D'Onofrio,549,6000,1000,0.167,136000,22.667,2374,Male,61,No upcoming birthday,U.S. national,Alive,Hold,42:42.1
+Dr. Phil,550,6000,1000,0.167,359000,59.833,2107,NaN,NaN,NaN,NaN,NaN,Hold,42:44.5
+Alanis Morissette,551,6000,1000,0.167,280000,46.667,1316,Female,46,No upcoming birthday,Foreign to U.S.,Alive,Hold,42:47.5
+Cara Delevingne,552,6000,2000,0.333,389000,64.833,1589,Female,28,No upcoming birthday,Foreign to U.S.,Alive,Hold,42:48.8
+Bryce Dallas Howard,553,6000,1000,0.167,665000,110.833,2009,Female,39,No upcoming birthday,U.S. national,Alive,Hold,42:50.0
+Sharon Tate,554,6000,1000,0.167,265000,44.167,1116,Female,26,No upcoming birthday,U.S. national,Dead,Hold,42:51.3
+Jack White,555,6000,2000,0.333,247000,41.167,2384,Male,45,No upcoming birthday,U.S. national,Alive,Hold,42:52.6
+Harry Shum,556,6000,4000,0.667,106000,17.667,760,NaN,NaN,NaN,NaN,NaN,Hold,42:55.0
+George Michael,557,6000,1000,0.167,2802000,467,1445,Male,53,No upcoming birthday,Foreign to U.S.,Dead,Hold,42:56.3
+Oscar Isaac,558,6000,6000,1,494000,82.333,2417,Male,40,No upcoming birthday,Foreign to U.S.,Alive,Hold,42:57.5
+John Stamos,559,6000,1000,0.167,615000,102.5,2007,Male,57,No upcoming birthday,U.S. national,Alive,Hold,42:58.8
+Tony Leung,560,6000,1000,0.167,81000,13.5,508,NaN,NaN,NaN,NaN,NaN,Hold,43:01.7
+Mandy Moore,561,6000,4000,0.667,392000,65.333,666,Female,36,No upcoming birthday,U.S. national,Alive,Hold,43:03.1
+Steve Guttenberg,562,6000,1000,0.167,49000,8.167,828,Male,62,No upcoming birthday,U.S. national,Alive,Hold,43:04.5
+Teresa Giudice,563,6000,3000,0.5,978000,163,2260,NaN,NaN,NaN,NaN,NaN,Hold,43:07.0
+Jenifer Lewis,564,6000,1000,0.167,160000,26.667,815,Female,63,No upcoming birthday,U.S. national,Alive,Hold,43:08.3
+Billy Dee Williams,565,6000,1000,0.167,240000,40,884,Male,83,No upcoming birthday,U.S. national,Alive,Hold,43:09.6
+Sarah Brightman,566,6000,1000,0.167,111000,18.5,2102,Female,60,No upcoming birthday,Foreign to U.S.,Alive,Hold,43:10.8
+Julian Fellowes,567,6000,1000,0.167,105000,17.5,2086,Male,71,No upcoming birthday,Foreign to U.S.,Alive,Hold,43:12.1
+Giannis Antetokounmpo,568,6000,2000,0.333,111000,18.5,297,NaN,NaN,NaN,NaN,NaN,Hold,43:14.6
+Jared Leto,569,6000,2000,0.333,2275000,379.167,2474,Male,48,No upcoming birthday,U.S. national,Alive,Hold,43:16.0
+Ed Asner,570,6000,3000,0.5,109000,18.167,1414,Male,91,No upcoming birthday,U.S. national,Alive,Hold,43:17.6
+Peter Berg,571,6000,1000,0.167,239000,39.833,1974,Male,56,No upcoming birthday,U.S. national,Alive,Hold,43:18.9
+Albert Hall,572,6000,4000,0.667,422000,70.333,669,Male,83,No upcoming birthday,U.S. national,Alive,Hold,43:20.2
+Mike Myers,573,6000,2000,0.333,270000,45,2181,Male,57,No upcoming birthday,Foreign to U.S.,Alive,Hold,43:21.5
+Andrew Lincoln,574,6000,3000,0.5,536000,89.333,766,Male,47,No upcoming birthday,Foreign to U.S.,Alive,Hold,43:22.7
+Brian Austin Green,575,6000,13000,2.167,515000,85.833,1703,Male,47,No upcoming birthday,U.S. national,Alive,Hold,43:24.1
+Tom Hollander,576,6000,1000,0.167,50000,8.333,2304,Male,53,No upcoming birthday,Foreign to U.S.,Alive,Hold,43:25.3
+Douglas Sills,577,6000,1000,0.167,36000,6,2061,Male,60,No upcoming birthday,U.S. national,Alive,Hold,43:26.6
+Tony Hale,578,6000,1000,0.167,155000,25.833,1907,Male,50,No upcoming birthday,U.S. national,Alive,Hold,43:27.9
+Megyn Kelly,579,6000,2000,0.333,1378000,229.667,777,NaN,NaN,NaN,NaN,NaN,Hold,43:30.4
+Jeremy Irons,580,6000,4000,0.667,334000,55.667,2505,Male,72,No upcoming birthday,Foreign to U.S.,Alive,Hold,43:31.8
+Mick Jagger,581,5000,1000,0.2,1663000,332.6,2459,Male,77,No upcoming birthday,Foreign to U.S.,Alive,Hold,43:33.3
+Kyle Chandler,582,5000,1000,0.2,134000,26.8,2130,Male,55,No upcoming birthday,U.S. national,Alive,Hold,43:34.6
+Iggy Azalea,583,5000,4000,0.8,826000,165.2,2300,NaN,NaN,NaN,NaN,NaN,Hold,43:37.1
+Ron Howard,584,5000,9000,1.8,565000,113,1266,Male,66,No upcoming birthday,U.S. national,Alive,Hold,43:38.5
+Guy Ritchie,585,5000,2000,0.4,330000,66,1310,Male,52,No upcoming birthday,Foreign to U.S.,Alive,Hold,43:39.7
+David Beckham,586,5000,3000,0.6,602000,120.4,1849,Male,45,No upcoming birthday,Foreign to U.S.,Alive,Hold,43:41.0
+Sarah Palin,587,5000,1000,0.2,779000,155.8,1786,Female,NaN,No upcoming birthday,U.S. national,Alive,Hold,43:42.2
+Jane Krakowski,588,5000,1000,0.2,166000,33.2,1641,Female,52,No upcoming birthday,U.S. national,Alive,Hold,43:43.5
+Ryan Kwanten,589,5000,1000,0.2,88000,17.6,2355,Male,44,No upcoming birthday,Foreign to U.S.,Alive,Hold,43:44.7
+Paul Guilfoyle,590,5000,1000,0.2,62000,12.4,2452,Male,71,No upcoming birthday,U.S. national,Alive,Hold,43:46.0
+Brad Pitt,591,5000,10000,2,4213000,842.6,1541,Male,56,Upcoming birthday,U.S. national,Alive,Hold,43:47.5
+Salma Hayek,592,5000,3000,0.6,492000,98.4,1092,Female,54,No upcoming birthday,Foreign to U.S.,Alive,Hold,43:48.8
+Jared Padalecki,593,5000,1000,0.2,250000,50,1977,Male,38,No upcoming birthday,U.S. national,Alive,Hold,43:50.1
+Val Kilmer,594,5000,1000,0.2,454000,90.8,2140,Male,60,No upcoming birthday,U.S. national,Alive,Hold,43:51.5
+Lolo Jones,595,5000,1000,0.2,273000,54.6,2277,Female,38,No upcoming birthday,U.S. national,Alive,Hold,43:52.7
+Antonio Banderas,596,5000,1000,0.2,589000,117.8,2378,Male,60,No upcoming birthday,Foreign to U.S.,Alive,Hold,43:54.1
+Meagan Good,597,5000,1000,0.2,193000,38.6,2271,Female,39,No upcoming birthday,U.S. national,Alive,Hold,43:55.4
+Gemma Arterton,598,5000,2000,0.4,79000,15.8,2473,Female,34,No upcoming birthday,Foreign to U.S.,Alive,Hold,43:56.7
+Toby Huss,599,5000,1000,0.2,16000,3.2,2022,Male,54,No upcoming birthday,U.S. national,Alive,Hold,43:58.0
+Stephen Moyer,600,5000,1000,0.2,232000,46.4,2367,Male,51,No upcoming birthday,Foreign to U.S.,Alive,Hold,43:59.3
+Marion Cotillard,601,5000,1000,0.2,768000,153.6,1541,Female,45,No upcoming birthday,Foreign to U.S.,Alive,Hold,44:00.7
+Keri Hilson,602,5000,1000,0.2,68000,13.6,269,Female,38,No upcoming birthday,U.S. national,Alive,Hold,44:02.0
+Michael Jackson,603,5000,1000,0.2,947000,189.4,647,Male,50,No upcoming birthday,U.S. national,Dead,Hold,44:03.4
+Sinbad,604,5000,1000,0.2,137000,27.4,24,Male,64,No upcoming birthday,U.S. national,Alive,Hold,44:04.6
+Robert Pattinson,605,5000,5000,1,523000,104.6,2079,Male,34,No upcoming birthday,Foreign to U.S.,Alive,Hold,44:05.9
+Ali Larter,606,5000,1000,0.2,176000,35.2,2152,Female,44,No upcoming birthday,U.S. national,Alive,Hold,44:07.2
+Faizon Love,607,5000,5000,1,136000,27.2,1373,Male,52,No upcoming birthday,Foreign to U.S.,Alive,Hold,44:08.4
+Adrienne Bailon,608,5000,1000,0.2,432000,86.4,2325,Female,37,No upcoming birthday,U.S. national,Alive,Hold,44:09.6
+Lisa Vanderpump,609,5000,6000,1.2,261000,52.2,182,NaN,NaN,NaN,NaN,NaN,Hold,44:12.0
+Anna Paquin,610,5000,1000,0.2,229000,45.8,2367,Female,38,No upcoming birthday,Foreign to U.S.,Alive,Hold,44:13.7
+Nick Kroll,611,5000,5000,1,228000,45.6,1905,Male,42,No upcoming birthday,U.S. national,Alive,Hold,44:15.0
+Sam Trammell,612,5000,1000,0.2,72000,14.4,2379,Male,51,No upcoming birthday,U.S. national,Alive,Hold,44:16.2
+Charo,613,5000,1000,0.2,130000,26,660,NaN,NaN,NaN,NaN,NaN,Hold,44:18.7
+John Hannah,614,5000,1000,0.2,33000,6.6,2506,Male,58,No upcoming birthday,Foreign to U.S.,Alive,Hold,44:20.0
+Chamillionaire,615,5000,1000,0.2,48000,9.6,1757,Male,41,No upcoming birthday,U.S. national,Alive,Hold,44:21.2
+Wilmer Valderrama,616,5000,3000,0.6,333000,66.6,1650,Male,40,No upcoming birthday,U.S. national,Alive,Hold,44:22.5
+Holly Hunter,617,5000,1000,0.2,183000,36.6,2442,Female,62,No upcoming birthday,U.S. national,Alive,Hold,44:23.8
+Nelsan Ellis,618,5000,1000,0.2,583000,116.6,1250,NaN,NaN,NaN,NaN,NaN,Hold,44:26.8
+Tracey Walter,619,5000,1000,0.2,16000,3.2,1361,Male,73,No upcoming birthday,U.S. national,Alive,Hold,44:28.2
+David Faustino,620,5000,1000,0.2,121000,24.2,2283,Male,46,No upcoming birthday,U.S. national,Alive,Hold,44:29.4
+Kirk Acevedo,621,5000,1000,0.2,48000,9.6,1213,Male,46,No upcoming birthday,U.S. national,Alive,Hold,44:30.7
+Kate Hudson,622,5000,5000,1,480000,96,2193,Female,41,No upcoming birthday,U.S. national,Alive,Hold,44:31.9
+Ken Leung,623,5000,1000,0.2,48000,9.6,1379,Male,50,No upcoming birthday,U.S. national,Alive,Hold,44:33.2
+Willie Geist,624,5000,1000,0.2,143000,28.6,2213,NaN,NaN,NaN,NaN,NaN,Hold,44:35.7
+50 Cent,625,5000,5000,1,685000,137,1976,Male,45,No upcoming birthday,U.S. national,Alive,Hold,44:37.1
+Harold Perrineau,626,5000,1000,0.2,70000,14,2584,Male,57,No upcoming birthday,U.S. national,Alive,Hold,44:38.4
+R. Kelly,627,5000,3000,0.6,1727000,345.4,645,Male,53,No upcoming birthday,U.S. national,Alive,Hold,44:39.6
+Alice Cooper,628,5000,1000,0.2,212000,42.4,1613,Male,72,No upcoming birthday,U.S. national,Alive,Hold,44:40.9
+Christopher Lloyd,629,5000,1000,0.2,374000,74.8,1877,Male,82,No upcoming birthday,U.S. national,Alive,Hold,44:42.3
+Chris Bauer,630,5000,1000,0.2,39000,7.8,2363,Male,54,No upcoming birthday,U.S. national,Alive,Hold,44:43.5
+Freddy Rodriguez,631,5000,1000,0.2,44000,8.8,2390,Male,45,No upcoming birthday,U.S. national,Alive,Hold,44:44.7
+Connie Nielsen,632,5000,1000,0.2,71000,14.2,1790,Female,55,No upcoming birthday,Foreign to U.S.,Alive,Hold,44:46.0
+Pamela Anderson,633,5000,1000,0.2,414000,82.8,2397,Female,53,No upcoming birthday,Foreign to U.S.,Alive,Hold,44:47.3
+Ben Miller,634,5000,1000,0.2,38000,7.6,2439,Male,54,No upcoming birthday,Foreign to U.S.,Alive,Hold,44:48.6
+Joe Jonas,635,5000,5000,1,723000,144.6,1151,Male,31,No upcoming birthday,U.S. national,Alive,Hold,44:49.9
+Jamie Oliver,636,5000,2000,0.4,61000,12.2,822,Male,45,No upcoming birthday,Foreign to U.S.,Alive,Hold,44:51.2
+Michael B. Jordan,637,5000,12000,2.4,474000,94.8,905,Male,33,No upcoming birthday,U.S. national,Alive,Hold,44:52.4
+Sammi Giancola,638,5000,1000,0.2,73000,14.6,2303,NaN,NaN,NaN,NaN,NaN,Hold,44:54.9
+James Spader,639,5000,1000,0.2,236000,47.2,2328,Male,60,No upcoming birthday,U.S. national,Alive,Hold,44:56.2
+Jane Leeves,640,5000,1000,0.2,58000,11.6,2215,Female,59,No upcoming birthday,Foreign to U.S.,Alive,Hold,44:57.5
+Rutina Wesley,641,5000,1000,0.2,61000,12.2,1116,Female,41,No upcoming birthday,U.S. national,Alive,Hold,44:58.7
+Bill Murray,642,5000,4000,0.8,599000,119.8,2031,Male,70,No upcoming birthday,U.S. national,Alive,Hold,45:00.0
+Sarah Shahi,643,5000,1000,0.2,80000,16,2106,Female,40,No upcoming birthday,U.S. national,Alive,Hold,45:01.2
+George Wallace,644,5000,1000,0.2,38000,7.6,2382,Male,68,No upcoming birthday,U.S. national,Alive,Hold,45:02.6
+Janet Jackson,645,5000,1000,0.2,606000,121.2,934,Female,54,No upcoming birthday,U.S. national,Alive,Hold,45:03.9
+Akon,646,5000,1000,0.2,85000,17,1869,Male,47,No upcoming birthday,U.S. national,Alive,Hold,45:05.2
+Tony Plana,647,5000,1000,0.2,18000,3.6,2,Male,68,No upcoming birthday,Foreign to U.S.,Alive,Hold,45:06.5
+Kaley Cuoco,648,5000,11000,2.2,638000,127.6,2534,Female,35,No upcoming birthday,U.S. national,Alive,Hold,45:09.0
+Jennifer Aniston,649,5000,7000,1.4,1414000,282.8,1952,Female,51,No upcoming birthday,U.S. national,Alive,Hold,45:10.3
+Sara Evans,650,4000,1000,0.25,37000,9.25,2378,NaN,NaN,NaN,NaN,NaN,Hold,45:14.0
+AnnaSophia Robb,651,4000,1000,0.25,75000,18.75,2553,Female,27,No upcoming birthday,U.S. national,Alive,Hold,45:15.2
+Elton John,652,4000,10000,2.5,692000,173,2474,Male,73,No upcoming birthday,Foreign to U.S.,Alive,Hold,45:16.6
+Jeff Probst,653,4000,1000,0.25,177000,44.25,2584,Male,59,No upcoming birthday,U.S. national,Alive,Hold,45:17.9
+Steve Harvey,654,4000,1000,0.25,1446000,361.5,1816,Male,63,No upcoming birthday,U.S. national,Alive,Hold,45:19.3
+Jane Fonda,655,4000,2000,0.5,512000,128,1169,Female,82,No upcoming birthday,U.S. national,Alive,Hold,45:20.7
+Howie Dorough,656,4000,1000,0.25,50000,12.5,1347,Male,47,No upcoming birthday,U.S. national,Alive,Hold,45:21.8
+Debra Messing,657,4000,1000,0.25,427000,106.75,1067,Female,52,No upcoming birthday,U.S. national,Alive,Hold,45:23.1
+Muhammad Ali,658,4000,1000,0.25,2011000,502.75,1650,Male,74,No upcoming birthday,U.S. national,Dead,Hold,45:24.3
+Bill Clinton,659,4000,8000,2,463000,115.75,1597,Male,74,No upcoming birthday,U.S. national,Alive,Hold,45:25.7
+Sara Bareilles,660,4000,2000,0.5,307000,76.75,914,Female,41,No upcoming birthday,U.S. national,Alive,Hold,45:27.1
+Eva Amurri,661,4000,1000,0.25,249000,62.25,1438,NaN,NaN,NaN,NaN,NaN,Hold,45:29.6
+Corinne Bailey Rae,662,4000,1000,0.25,27000,6.75,1624,Female,41,No upcoming birthday,Foreign to U.S.,Alive,Hold,45:30.8
+Petra Nemcova,663,4000,1000,0.25,33000,8.25,1667,Female,41,NaN,Foreign to U.S.,Alive,Hold,45:32.0
+Claire Holt,664,4000,1000,0.25,162000,40.5,2465,Female,32,No upcoming birthday,Foreign to U.S.,Alive,Hold,45:33.3
+Marisa Tomei,665,4000,2000,0.5,245000,61.25,1982,Female,56,No upcoming birthday,U.S. national,Alive,Hold,45:34.6
+Nick Carter,666,4000,1000,0.25,593000,148.25,1792,Male,40,No upcoming birthday,U.S. national,Alive,Hold,45:35.9
+Djimon Hounsou,667,4000,1000,0.25,141000,35.25,2486,Male,56,No upcoming birthday,Foreign to U.S.,Alive,Hold,45:37.2
+Spike Lee,668,4000,3000,0.75,1447000,361.75,654,Male,63,No upcoming birthday,U.S. national,Alive,Sell,45:38.4
+Emilie de Ravin,669,4000,1000,0.25,105000,26.25,1733,Female,38,No upcoming birthday,Foreign to U.S.,Alive,Hold,45:39.7
+Dule Hill,670,4000,1000,0.25,47000,11.75,2500,Male,46,No upcoming birthday,U.S. national,Alive,Hold,45:41.0
+Jordin Sparks,671,4000,1000,0.25,563000,140.75,2267,Female,30,No upcoming birthday,U.S. national,Alive,Hold,45:42.2
+Aasif Mandvi,672,4000,1000,0.25,79000,19.75,2079,Male,54,No upcoming birthday,Foreign to U.S.,Alive,Hold,45:43.5
+Brent Musburger,673,4000,1000,0.25,86000,21.5,1415,NaN,NaN,NaN,NaN,NaN,Hold,45:45.9
+Holly Marie Combs,674,4000,1000,0.25,115000,28.75,1049,Female,47,No upcoming birthday,U.S. national,Alive,Hold,45:47.1
+Boy George,675,4000,1000,0.25,161000,40.25,1964,Male,59,No upcoming birthday,Foreign to U.S.,Alive,Hold,45:48.6
+Bob Balaban,676,4000,1000,0.25,110000,27.5,2498,Male,75,No upcoming birthday,U.S. national,Alive,Hold,45:50.0
+Eva Amurri Martino,677,4000,1000,0.25,214000,53.5,1438,Female,35,No upcoming birthday,U.S. national,Alive,Hold,45:51.3
+Naomi Campbell,678,4000,2000,0.5,194000,48.5,2451,Female,50,No upcoming birthday,Foreign to U.S.,Alive,Hold,45:52.6
+Rob Reiner,679,4000,1000,0.25,150000,37.5,722,Male,73,No upcoming birthday,U.S. national,Alive,Hold,45:54.0
+Loretta Swit,680,4000,1000,0.25,18000,4.5,1440,Female,83,No upcoming birthday,U.S. national,Alive,Hold,45:55.5
+Lee Daniels,681,4000,1000,0.25,394000,98.5,1905,Male,60,No upcoming birthday,U.S. national,Alive,Hold,45:56.8
+Patrick Warburton,682,4000,1000,0.25,104000,26,1732,Male,56,No upcoming birthday,U.S. national,Alive,Hold,45:58.1
+Stevie Wonder,683,4000,1000,0.25,404000,101,1662,Male,70,No upcoming birthday,U.S. national,Alive,Hold,45:59.8
+LeAnn Rimes,684,4000,2000,0.5,207000,51.75,2556,Female,38,No upcoming birthday,U.S. national,Alive,Hold,46:01.1
+Christine Lahti,685,4000,1000,0.25,21000,5.25,2524,Female,70,No upcoming birthday,U.S. national,Alive,Hold,46:02.5
+Courtney Love,686,4000,2000,0.5,375000,93.75,2459,Female,56,No upcoming birthday,U.S. national,Alive,Hold,46:03.8
+Andrew Keegan,687,4000,1000,0.25,111000,27.75,2309,Male,41,No upcoming birthday,U.S. national,Alive,Hold,46:05.1
+Alicia Vikander,688,4000,1000,0.25,807000,201.75,1746,Female,32,No upcoming birthday,Foreign to U.S.,Alive,Hold,46:06.5
+Anneliese van der Pol,689,4000,1000,0.25,58000,14.5,1904,Female,36,No upcoming birthday,Foreign to U.S.,Alive,Hold,46:07.7
+Jamie-Lynn Sigler,690,4000,1000,0.25,329000,82.25,1786,Female,39,No upcoming birthday,U.S. national,Alive,Hold,46:09.0
+Halle Berry,691,4000,10000,2.5,856000,214,1870,Female,54,No upcoming birthday,U.S. national,Alive,Hold,46:10.3
+Carmen Ejogo,692,4000,1000,0.25,96000,24,2118,Female,46,No upcoming birthday,Foreign to U.S.,Alive,Hold,46:11.5
+Jeff Bridges,693,3000,2000,0.667,315000,105,51,Male,71,No upcoming birthday,U.S. national,Alive,Hold,46:12.8
+Kristen Bell,694,3000,2000,0.667,689000,229.667,1053,Female,40,No upcoming birthday,U.S. national,Alive,Hold,46:14.1
+Alessandro Nivola,695,3000,1000,0.333,80000,26.667,751,Male,48,No upcoming birthday,U.S. national,Alive,Hold,46:15.4
+Chita Rivera,696,3000,1000,0.333,84000,28,2012,Female,87,No upcoming birthday,U.S. national,Alive,Hold,46:16.6
+Cole Sprouse,697,3000,1000,0.333,280000,93.333,506,Male,28,No upcoming birthday,Foreign to U.S.,Alive,Hold,46:17.8
+John Kerr,698,3000,8000,2.667,138000,46,2539,Male,81,No upcoming birthday,U.S. national,Dead,Hold,46:19.1
+Mandy Patinkin,699,3000,1000,0.333,114000,38,2006,Male,68,No upcoming birthday,U.S. national,Alive,Hold,46:20.3
+Jane Seymour,700,3000,1000,0.333,85000,28.333,1022,Female,69,No upcoming birthday,Foreign to U.S.,Alive,Hold,46:21.6
+Joel Grey,701,3000,1000,0.333,177000,59,2143,Male,88,No upcoming birthday,U.S. national,Alive,Hold,46:22.9
+Ingrid Michaelson,702,3000,1000,0.333,67000,22.333,707,Female,41,No upcoming birthday,U.S. national,Alive,Hold,46:24.8
+Kevin McHale,703,3000,1000,0.333,135000,45,150,Male,32,No upcoming birthday,U.S. national,Alive,Hold,46:26.1
+Jordan Fisher,704,3000,2000,0.667,374000,124.667,1115,NaN,NaN,NaN,NaN,NaN,Hold,46:28.8
+Tonya Pinkins,705,3000,1000,0.333,66000,22,1807,NaN,NaN,NaN,NaN,NaN,Hold,46:31.4
+Tilda Swinton,706,3000,1000,0.333,213000,71,2361,Female,60,No upcoming birthday,Foreign to U.S.,Alive,Hold,46:32.8
+Steven Pasquale,707,3000,1000,0.333,29000,9.667,2337,Male,44,No upcoming birthday,U.S. national,Alive,Hold,46:35.8
+Kathleen Chalfant,708,3000,1000,0.333,22000,7.333,1810,Female,75,No upcoming birthday,U.S. national,Alive,Hold,46:37.8
+Judith Light,709,3000,1000,0.333,75000,25,1543,Female,71,No upcoming birthday,U.S. national,Alive,Hold,46:39.1
+Blair Underwood,710,3000,1000,0.333,42000,14,1619,Male,56,No upcoming birthday,U.S. national,Alive,Hold,46:40.4
+Debbie Allen,711,3000,1000,0.333,81000,27,681,Female,70,No upcoming birthday,U.S. national,Alive,Hold,46:41.7
+Marsha Mason,712,3000,1000,0.333,22000,7.333,1718,Female,78,No upcoming birthday,U.S. national,Alive,Hold,46:43.0
+Norma Shearer,713,1000,1000,1,26000,26,409,Female,82,No upcoming birthday,Foreign to U.S.,Dead,Hold,46:44.4
+Phil Keoghan,714,1000,1000,1,35000,35,2559,Male,53,No upcoming birthday,Foreign to U.S.,Alive,Hold,46:45.6
+Paul Dano,715,1000,1000,1,260000,260,419,Male,36,No upcoming birthday,U.S. national,Alive,Hold,46:46.8
+Jean Marais,716,1000,1000,1,14000,14,2533,Male,84,Upcoming birthday,Foreign to U.S.,Dead,Hold,46:48.1
+Charles Dance,717,1000,1000,1,126000,126,2272,Male,74,No upcoming birthday,Foreign to U.S.,Alive,Hold,46:49.4
