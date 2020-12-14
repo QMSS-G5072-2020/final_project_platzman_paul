@@ -585,17 +585,22 @@ def append_to_df(df, celebrity):
 
 	Parameters
 	----------
+	  df : pandas.core.frame.DataFrame
+	    A Pandas data frame with column names that correspond to celebrity attributes collected in other functions.
+
 	  celebrity : str
 	    A celebrity's first and last name encapsulated in single or double quotes. Not case sensitive.
-	  
+	
 	Returns
 	-------
-	
+	pandas.core.frame.DataFrame
+	   A Pandas data frame containing celebrity attributes
+
 	Examples
 	--------
 	>>> len(df)
 	64
-	>>> append_to_df('Rachel McAdams')
+	>>> df = append_to_df(df, 'Rachel McAdams')
 	>>> len(df)
 	65
 	>>> df[df['Celebrity'] == 'Rachel McAdams'].to_dict()
