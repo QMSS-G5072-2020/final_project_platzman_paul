@@ -1,4 +1,4 @@
-#Importing Dependencies
+#Importing dependencies
 import bs4
 import json
 import os
@@ -45,6 +45,8 @@ def get_celebrity_list(api_object):
 
 	Parameters
 	----------
+	  api_object : dict
+	    A JSON object containing celebrity rankings and price values from the Celebrity Bucks API.
 	 	  
 	Returns
 	-------
@@ -67,7 +69,7 @@ def get_celebrity_list(api_object):
 	return(celebrities)
 
 
-def get_celebritybucks_soup_object(celebrity=""):
+def get_celebritybucks_soup_object(api_object, celebrity=""):
 	"""
 	Returns a bs4.BeautifulSoup object containing HTML from the Celebrity Bucks webpage corresponding to a given celebrity. Source: https://celebritybucks.com/celebrities/.
 
@@ -190,6 +192,8 @@ def get_celebritybucks_ranking(api_object, celebrity=""):
 
 	Parameters
 	----------
+	  api_object : dict
+	    A JSON object containing celebrity rankings and price values from the Celebrity Bucks API.
 	  celebrity : str
 	    A celebrity's first and last name encapsulated in single or double quotes. Not case sensitive.
 	  
@@ -221,6 +225,8 @@ def get_celebritybucks_price(api_object, celebrity=""):
 
 	Parameters
 	----------
+	  api_object : dict
+	    A JSON object containing celebrity rankings and price values from the Celebrity Bucks API.
 	  celebrity : str
 	    A celebrity's first and last name encapsulated in single or double quotes. Not case sensitive.
 	  
@@ -250,6 +256,8 @@ def get_celebritybucks_ID(api_object, celebrity=""):
 
 	Parameters
 	----------
+	  api_object : dict
+	    A JSON object containing celebrity rankings and price values from the Celebrity Bucks API.
 	  celebrity : str
 	    A celebrity's first and last name encapsulated in single or double quotes. Not case sensitive.
 	  
@@ -571,7 +579,7 @@ def get_cb_rec(soup_object):
 	return(soup_object.find_all(role='alert')[1].get_text().strip().split()[-1])
 
 
-def append_to_df(celebrity):
+def append_to_df(df, celebrity):
 	"""
 	Collects data for a given celebrity from three sources and appends data to a `celebrity_data_attributes` Pandas data frame. Sources: Celebrity Bucks API, https://www.astro-seek.com/, and https://celebritybucks.com/celebrities/. 
 
@@ -607,10 +615,9 @@ def append_to_df(celebrity):
 	 'Celebrity Bucks Recommendation': {64: 'Buy'},
 	 'Last Update': {64: '31:02.3'}}
 	"""
-	global df
 
 	#Scraping Celebrity Bucks individual celebrity site
-	soup_cb = get_celebritybucks_soup_object(celebrity)
+	soup_cb = get_celebritybucks_soup_object(api_object, celebrity)
 
 	#Scraping Astro Seek individual celebrity site
 	soup_as = get_astroseek_soup_object(celebrity)
@@ -678,6 +685,8 @@ def append_to_df(celebrity):
 	except:
 		print(f'Unable to add record for {celebrity} to data frame.')
 
+	return(df)
+
 
 if __name__ == "__main__":
 
@@ -690,12 +699,12 @@ if __name__ == "__main__":
 	print(f'There are {len(celebrities)} celebrities who have Celebrity Bucks values!')
 
 	#Creating the celebrity attribute data frame
-	df = create_celeb_df()
+	df_celeb = create_celeb_df()
 
 	#Filling the data frame
 	for num in range(len(celebrities)):
 	    celebrity = celebrities[num]
-	    append_to_df(celebrity)
+	    df_celeb = append_to_df(df_celeb, celebrity)
 	    
 	    #Progress tracker
 	    if num%10==0:
@@ -705,4 +714,4 @@ if __name__ == "__main__":
 
 	#Saving the data frame
 	current_time = datetime.now()
-	df.to_csv(f'../data/celebrity_data_attributes_{current_time.year}-{current_time.month}-{current_time.day}_{current_time.hour}_{current_time.minute}_{current_time.second}.csv',index=False)
+	df_celeb.to_csv(f'../data/celebrity_data_attributes_{current_time.year}-{current_time.month}-{current_time.day}_{current_time.hour}_{current_time.minute}_{current_time.second}.csv',index=False)
