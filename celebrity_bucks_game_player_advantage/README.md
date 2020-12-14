@@ -2,7 +2,7 @@
 
 ![](https://github.com/paulplatzman/celebrity_bucks_game_player_advantage/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/paulplatzman/celebrity_bucks_game_player_advantage/branch/main/graph/badge.svg)](https://codecov.io/gh/paulplatzman/celebrity_bucks_game_player_advantage) ![Release](https://github.com/paulplatzman/celebrity_bucks_game_player_advantage/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/celebrity_bucks_game_player_advantage/badge/?version=latest)](https://celebrity_bucks_game_player_advantage.readthedocs.io/en/latest/?badge=latest)
 
-Python package that provides Celebrity Bucks players with additional data to help inform game playing decisions!
+Python package providing Celebrity Bucks game players with additional celebrity attribute data to inform buy/sell/hold decisions!
 
 ## Installation
 

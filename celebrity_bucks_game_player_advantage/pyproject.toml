@@ -1,19 +1,19 @@
 [tool.poetry]
 name = "celebrity_bucks_game_player_advantage"
 version = "0.1.0"
-description = "Python package that provides Celebrity Bucks players with additional data to help inform game playing decisions!"
+description = "Python package providing Celebrity Bucks game players with additional celebrity attribute data to inform buy/sell/hold decisions!"
 authors = ["Paul Platzman <pbp2113@columbia.edu>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-jupyter = "^1.0.0"
+bs4 = "^0.0.1"
 pandas = "^1.1.5"
 requests = "^2.25.0"
-bs4 = "^0.0.1"
+jupyter = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
-pytest = "^6.1.2"
+pytest = "^6.2.0"
 pytest-cov = "^2.10.1"
 codecov = "^2.1.10"
 python-semantic-release = "^7.7.0"

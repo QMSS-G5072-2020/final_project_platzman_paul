@@ -10,7 +10,7 @@ Welcome to Celebrity Bucks Game Player Advantage's documentation!
 .. image:: https://img.shields.io/badge/badges-shields.io-brightgreen
         :target: https://shields.io/
 
-Python package that provides Celebrity Bucks players with additional data to help inform game playing decisions!
+Python package providing Celebrity Bucks game players with additional celebrity attribute data to inform buy/sell/hold decisions!
 
 To get started, check out the sections below:
 
