@@ -35,11 +35,11 @@ def get_celebritybucks_api_object():
 	elif r.status_code==200:
 		print('API request is successful.')
 
-	api_object = r.json()
-	return(api_object)
+	celebs = r.json()
+	return(celebs)
 
 
-def get_celebrity_list(api_object):
+def get_celebrity_list():
 	"""
 	Returns a ranked list of celebrities generated from a Celebrity Bucks API call. Source: https://celebritybucks.com/developers/.
 
@@ -61,8 +61,8 @@ def get_celebrity_list(api_object):
 	"""
 	celebrities = []
 
-	for index in range(len(api_object['CelebrityValues'])):
-		celebrities.append(api_object['CelebrityValues'][index]['name'])
+	for index in range(len(celebs['CelebrityValues'])):
+		celebrities.append(celebs['CelebrityValues'][index]['name'])
 
 	return(celebrities)
 
@@ -92,7 +92,7 @@ def get_celebritybucks_soup_object(celebrity=""):
 	celeb_name_split = celebrity.split()
 	celeb_name = '-'.join(celeb_name_split)
 
-	celebID = get_celebritybucks_ID(api_object, celebrity)
+	celebID = get_celebritybucks_ID(celebrity)
 
 	celebrity_bucks_url = f'https://celebritybucks.com/celebrity/{celebID}/{celeb_name}'
 
@@ -184,7 +184,7 @@ def create_celeb_df():
 
 
 #Functions for acquiring celebrity attributes
-def get_celebritybucks_ranking(api_object, celebrity=""):
+def get_celebritybucks_ranking(celebrity=""):
 	"""
 	Returns the Celebrity Bucks ranking for a given celebrity from the Celebrity Bucks API.
 
@@ -207,15 +207,15 @@ def get_celebritybucks_ranking(api_object, celebrity=""):
 	"""
 	assert type(celebrity) == str, "Input value must be of type string."
 
-	for index in range(len(api_object['CelebrityValues'])):
-		if api_object['CelebrityValues'][index]['name'] == celebrity:
+	for index in range(len(celebs['CelebrityValues'])):
+		if celebs['CelebrityValues'][index]['name'] == celebrity:
 			return(index+1)
 		else:
 			next
 	return(f'{celebrity} not found within CelebrityBucks data set.')
 
 
-def get_celebritybucks_price(api_object, celebrity=""):
+def get_celebritybucks_price(celebrity=""):
 	"""
 	Returns the Celebrity Bucks price for a given celebrity from the Celebrity Bucks API.
 
@@ -236,15 +236,15 @@ def get_celebritybucks_price(api_object, celebrity=""):
 	"""
 	assert type(celebrity) == str, "Input value must be of type string."
 
-	for index in range(len(api_object['CelebrityValues'])):
-		if api_object['CelebrityValues'][index]['name'] == celebrity:
-			return(api_object['CelebrityValues'][index]['price'])
+	for index in range(len(celebs['CelebrityValues'])):
+		if celebs['CelebrityValues'][index]['name'] == celebrity:
+			return(celebs['CelebrityValues'][index]['price'])
 		else:
 			next
 	return(f'{celebrity} not found within CelebrityBucks data set.')
 
 
-def get_celebritybucks_ID(api_object, celebrity=""):
+def get_celebritybucks_ID(celebrity=""):
 	"""
 	Returns the four-digit Celebrity Bucks ID value for a given celebrity from the Celebrity Bucks API.
 
@@ -265,9 +265,9 @@ def get_celebritybucks_ID(api_object, celebrity=""):
 	"""
 	assert type(celebrity) == str, "Input value must be of type string."
 
-	for index in range(len(api_object['CelebrityValues'])):
-		if api_object['CelebrityValues'][index]['name'] == celebrity:
-			return(api_object['CelebrityValues'][index]['celebId'])
+	for index in range(len(celebs['CelebrityValues'])):
+		if celebs['CelebrityValues'][index]['name'] == celebrity:
+			return(celebs['CelebrityValues'][index]['celebId'])
 		else:
 			next
 	return(f'{celebrity} not found within CelebrityBucks data set.')
@@ -610,17 +610,33 @@ def append_to_df(celebrity):
 	global df
 
 	#Scraping Celebrity Bucks individual celebrity site
-	soup_cb = get_celebritybucks_soup_object(celebrity)
+	celeb_name_split = celebrity.split()
+	celeb_name = '-'.join(celeb_name_split)
+
+	celebID = get_celebritybucks_ID(celebrity)
+
+	celebrity_bucks_url = f'https://celebritybucks.com/celebrity/{celebID}/{celeb_name}'
+
+	celebrity_bucks_html = requests.get(celebrity_bucks_url)
+	soup_cb = bs4.BeautifulSoup(celebrity_bucks_html.content, 'html.parser')
+	#soup_cb = get_celebritybucks_soup_object(celebrity)
 
 	#Scraping Astro Seek individual celebrity site
-	soup_as = get_astroseek_soup_object(celebrity)
+	celeb_name_split = celebrity.replace(".","").replace("'","-").split()
+	celeb_name = '-'.join(celeb_name_split)
+
+	astro_seek_url = f'https://www.astro-seek.com/birth-chart/{celeb_name}-horoscope'
+
+	astro_seek_html = requests.get(astro_seek_url)
+	soup_as = bs4.BeautifulSoup(astro_seek_html.content, 'html.parser')
+	#soup_as = get_astroseek_soup_object(celebrity)
 
 	try:
 		#Current Ranking
-		current_ranking = get_celebritybucks_ranking(api_object, celebrity)
+		current_ranking = get_celebritybucks_ranking(celebrity)
 
 		#Current Price
-		current_price = get_celebritybucks_price(api_object, celebrity)
+		current_price = get_celebritybucks_price(celebrity)
 
 		#Avg. 21-Day Price
 		twenty_one_day_price = get_avg_21_day_price(soup_cb)
@@ -682,10 +698,10 @@ def append_to_df(celebrity):
 if __name__ == "__main__":
 
 	#Celebrity Bucks API call
-	api_object = get_celebritybucks_api_object()
+	celebs = get_celebritybucks_api_object()
 
 	#Creating a list of celebrities based on the results of the API call
-	celebrities = get_celebrity_list(api_object)
+	celebrities = get_celebrity_list()
 
 	print(f'There are {len(celebrities)} celebrities who have Celebrity Bucks values!')
 
