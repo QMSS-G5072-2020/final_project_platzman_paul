@@ -12,15 +12,21 @@ $ pip install -i https://test.pypi.org/simple/ celebrity_bucks_game_player_advan
 
 ## Features
 
-- TODO
+- This package contains a data set of all celebrities available in the Celebrity Bucks online game. The data set collected information from the Celebrity Bucks API and augmented it with additional celebrity features found in two other online sources. This package also contains a `create_celebrity_data_set.py` script that allows users to easily create new data sets, enabling them to capture the most current celebrity information.  
 
 ## Dependencies
 
-- TODO
+- bs4
+- json
+- os
+- pandas
+- requests
+- sys
+- datetime
 
 ## Usage
 
-- TODO
+- Please see `./Celebrity_Bucks_GPA_Package_Tutorial.ipynb` for details about how to use this package.
 
 ## Documentation
 
