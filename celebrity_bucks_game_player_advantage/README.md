@@ -12,7 +12,7 @@ $ pip install -i https://test.pypi.org/simple/ celebrity_bucks_game_player_advan
 
 ## Features
 
-- This package contains a data set of all celebrities available in the Celebrity Bucks online game. The data set collected information from the Celebrity Bucks API and augmented it with additional celebrity features found in two other online sources. This package also contains a `create_celebrity_data_set.py` script that allows users to easily create new data sets, enabling them to capture the most current celebrity information.  
+- This package contains a data set of all celebrities available in the Celebrity Bucks online game. The data set presents information returned by the Celebrity Bucks API and augments it with additional celebrity features found in two other online sources. This package also contains a `create_celebrity_data_set.py` script that allows users to easily create new data sets or collect information about individual celebrities, enabling them to capture the most up to date celebrity information.  
 
 ## Dependencies
 
