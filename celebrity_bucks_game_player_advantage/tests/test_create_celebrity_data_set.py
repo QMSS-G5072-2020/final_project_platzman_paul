@@ -17,7 +17,7 @@ celebrity = 'Barack Obama'
 api_object = create_celebrity_data_set.get_celebritybucks_api_object()
 soup_cb = create_celebrity_data_set.get_celebritybucks_soup_object(api_object, celebrity)
 soup_as = create_celebrity_data_set.get_astroseek_soup_object(celebrity)
-df_test = create_celebrity_data_set.create_celeb_df()
+
 
 #Unit tests
 def test_version():
@@ -124,3 +124,9 @@ def test_get_days_since_ath_non_negative():
 
 def test_get_cb_rec_result():
 	assert create_celebrity_data_set.get_cb_rec(soup_cb) in ['Hold','Buy','Sell']
+
+def test_get_celeb_data_df_shape():
+	df = create_celebrity_data_set.get_celeb_data(api_object, soup_cb, soup_as, celebrity)
+	actual = df.shape
+	expected = (1,15)
+	assert actual == expected

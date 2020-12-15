@@ -581,7 +581,7 @@ def get_cb_rec(soup_object):
 
 def append_to_df(df, celebrity):
 	"""
-	Collects data for a given celebrity from three sources and appends data to a `celebrity_data_attributes` Pandas data frame. Sources: Celebrity Bucks API, https://www.astro-seek.com/, and https://celebritybucks.com/celebrities/. 
+	Collects data for a given celebrity from three sources and appends data to a `celebrity_data_attributes` Pandas data frame. Intended for script execution. Sources: Celebrity Bucks API, https://www.astro-seek.com/, and https://celebritybucks.com/celebrities/. 
 
 	Parameters
 	----------
@@ -620,7 +620,6 @@ def append_to_df(df, celebrity):
 	 'Celebrity Bucks Recommendation': {64: 'Buy'},
 	 'Last Update': {64: '31:02.3'}}
 	"""
-
 	#Scraping Celebrity Bucks individual celebrity site
 	soup_cb = get_celebritybucks_soup_object(api_object, celebrity)
 
@@ -691,6 +690,157 @@ def append_to_df(df, celebrity):
 		print(f'Unable to add record for {celebrity} to data frame.')
 
 	return(df)
+
+
+def get_celeb_data(api_object, soup_cb, soup_as, celebrity):
+	"""
+	Collects data for a given celebrity from three sources and returns data as a single row in a Pandas data frame. Intended for interactive usage. Sources: Celebrity Bucks API, https://www.astro-seek.com/, and https://celebritybucks.com/celebrities/. 
+
+	Parameters
+	----------
+	  api_object : dict
+	    A JSON object containing celebrity rankings and price values from the Celebrity Bucks API.
+
+	  soup_object: bs4.BeautifulSoup
+	    A BeautifulSoup object containing HTML from the Celebrity Bucks webpage corresponding to a given celebrity.
+
+	  soup_object: bs4.BeautifulSoup
+	    A BeautifulSoup object containing HTML from the Astro Seek birth chart webpage corresponding to a given celebrity. 
+
+	  celebrity : str
+	    A celebrity's first and last name encapsulated in single or double quotes. Not case sensitive.
+	
+	Returns
+	-------
+	pandas.core.frame.DataFrame
+	   A Pandas data frame containing attributes for a given celebrity
+
+	Examples
+	--------
+	>>> get_celeb_data(api_object, soup_cb, soup_as, celebrity='Rachel McAdams')
+	>>> df[df['Celebrity'] == 'Rachel McAdams'].to_dict()
+	{'Celebrity': {0: 'Rachel McAdams'},
+	 'Current Ranking': {0: 65},
+	 'Current Price': {0: 51000},
+	 'Avg. 21-Day Price': {0: 3000},
+	 'Avg. 21-Day Price/Current Price': {0: 0.059000000000000004},
+	 'All-Time High Price': {0: 377000},
+	 'All-Time High Price/Current Price': {0: 7.392},
+	 'Days Since All-Time High Price': {0: 2333},
+	 'Gender': {0: 'Female'},
+	 'Age': {0: 42.0},
+	 'Upcoming Birthday': {0: 'No upcoming birthday'},
+	 'U.S. Nationality': {0: 'Foreign to U.S.'},
+	 'Living Status': {0: 'Alive'},
+	 'Celebrity Bucks Recommendation': {0: 'Buy'},
+	 'Last Update': {0: '31:02.3'}}
+	"""
+	df = create_celeb_df()
+
+	#Current Ranking
+	try:
+		current_ranking = get_celebritybucks_ranking(api_object, celebrity)
+	except:
+		current_ranking = 'NaN'
+
+	#Current Price
+	try:
+		current_price = get_celebritybucks_price(api_object, celebrity)
+	except:
+		current_price = 'NaN'
+
+	#Avg. 21-Day Price
+	try:
+		twenty_one_day_price = get_avg_21_day_price(soup_cb)
+	except:
+		twenty_one_day_price = 'NaN'
+
+	#Avg. 21-Day Price/Current Price
+	try:
+		ratio_21d = round(twenty_one_day_price/current_price,3)
+	except:
+		ratio_21d = 'NaN'
+
+	#All-Time High Price
+	try:
+		all_time_high_price = get_all_time_high_price(soup_cb)
+	except:
+		all_time_high_price = 'NaN'
+
+	#All-Time High Price/Current Price
+	try:
+		ratio_ath = round(all_time_high_price/current_price,3)
+	except:
+		ratio_ath = 'NaN'
+
+	#Days Since All-Time High Price
+	try:
+		duration_since_ath = get_days_since_ath(soup_cb)
+	except:
+		duration_since_ath = 'NaN'
+
+	#Gender
+	try:
+		gender = get_gender(soup_as)
+	except:
+		gender = 'NaN'
+
+	#Age
+	try:
+		age = get_age(soup_as)
+	except:
+		age = 'NaN'
+
+	#Upcoming Birthday
+	try:
+		birthday_next_7_days = upcoming_birthday(soup_as)
+	except:
+		birthday_next_7_days = 'NaN'
+
+	#U.S. Nationality
+	try:
+		nationality = us_nationality(soup_as)
+	except:
+		nationality = 'NaN'
+
+	#Living Status
+	try:
+		living = living_status(soup_as)
+	except:
+		living = 'NaN'
+
+	#Celebrity Bucks Recommendation
+	try:
+		cb_rec = get_cb_rec(soup_cb)
+	except:
+		cb_rec = 'NaN'
+
+	#Last Update
+	try:
+		current_time = datetime.now()
+	except:
+		current_time = 'NaN'
+
+	#Appending row to dataframe
+	df = df.append({'Celebrity':celebrity, 
+					'Current Ranking':current_ranking,
+					'Current Price':current_price,
+					'Avg. 21-Day Price':twenty_one_day_price,
+					'Avg. 21-Day Price/Current Price':ratio_21d,
+					'All-Time High Price':all_time_high_price,
+					'All-Time High Price/Current Price':ratio_ath,
+					'Days Since All-Time High Price':duration_since_ath,
+					'Gender':gender,
+					'Age':age,
+					'Upcoming Birthday':birthday_next_7_days,
+					'U.S. Nationality':nationality,
+					'Living Status':living,
+					'Celebrity Bucks Recommendation':cb_rec,
+					'Last Update':current_time},  
+					ignore_index = True) 
+
+	return(df)
+
 
 
 if __name__ == "__main__":
