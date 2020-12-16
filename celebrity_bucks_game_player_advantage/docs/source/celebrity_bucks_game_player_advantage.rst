@@ -4,14 +4,6 @@ celebrity\_bucks\_game\_player\_advantage package
 Submodules
 ----------
 
-celebrity\_bucks\_game\_player\_advantage.celebrity\_bucks\_game\_player\_advantage module
-------------------------------------------------------------------------------------------
-
-.. automodule:: celebrity_bucks_game_player_advantage.celebrity_bucks_game_player_advantage
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
 celebrity\_bucks\_game\_player\_advantage.create\_celebrity\_data\_set module
 -----------------------------------------------------------------------------
 

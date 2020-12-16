@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "celebrity_bucks_game_player_advantage"
-version = "0.1.0"
+version = "0.2.0"
 description = "Python package providing Celebrity Bucks game players with additional celebrity attribute data to inform buy/sell/hold decisions!"
 authors = ["Paul Platzman <pbp2113@columbia.edu>"]
 license = "MIT"
