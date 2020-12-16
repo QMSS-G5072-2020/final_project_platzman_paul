@@ -23,6 +23,8 @@ $ pip install -i https://test.pypi.org/simple/ celebrity_bucks_game_player_advan
 - requests
 - sys
 - datetime
+- matplotlib
+- pytest
 
 ## Usage
 
