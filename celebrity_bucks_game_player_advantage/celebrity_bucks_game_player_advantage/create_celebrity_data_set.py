@@ -856,7 +856,7 @@ if __name__ == "__main__":
 	#Creating the celebrity attribute data frame
 	df_celeb = create_celeb_df()
 
-	#Filling the data frame
+	#Filling in the data frame
 	for num in range(len(celebrities)):
 	    celebrity = celebrities[num]
 	    df_celeb = append_to_df(df_celeb, celebrity)
